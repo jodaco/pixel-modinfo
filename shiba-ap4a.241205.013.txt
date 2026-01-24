@@ -1,0 +1,249 @@
+shiba-ap4a.241205.013
+kernel_rev: 5.15.153-android14-11-g1ea07643b6ac-ab12324537
+kernel_commit: g1ea07643b6ac
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_uwb_service_dev.ko
+Module Name: aoc_uwb_service_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/snd-soc-wm-adsp.ko
+Module Name: snd-soc-wm-adsp.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/acpm_mbox_test.ko
+Module Name: acpm_mbox_test.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/vh_preemptirq_long.ko
+Module Name: vh_preemptirq_long.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/google_dock.ko
+Module Name: google_dock.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6dd9d09a2978
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/cs40l26-i2c.ko
+Module Name: cs40l26-i2c.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_char_dev.ko
+Module Name: aoc_char_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_uwb_platform_drv.ko
+Module Name: aoc_uwb_platform_drv.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/cl_dsp-core.ko
+Module Name: cl_dsp-core.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/qm35.ko
+Module Name: qm35.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g1b5c47f0e562
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/ftm5.ko
+Module Name: ftm5.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: gb13372a327c8
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/bbd_pps_gpio.ko
+Module Name: bbd_pps_gpio.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g4a4e676ac1c3
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/heatmap.ko
+Module Name: heatmap.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: ga8ac326d9ba6
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/snd-soc-cs35l41-spi.ko
+Module Name: snd-soc-cs35l41-spi.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/st33spi.ko
+Module Name: st33spi.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: gc1171c355337
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_unit_test_dev.ko
+Module Name: aoc_unit_test_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/goodixfp.ko
+Module Name: goodixfp.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/gxp.ko
+Module Name: gxp.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g9e145c834034
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/snd-soc-cs40l26.ko
+Module Name: snd-soc-cs40l26.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
+Module Name: aoc_alsa_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/cp_thermal_zone.ko
+Module Name: cp_thermal_zone.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/snd-soc-cs35l41.ko
+Module Name: snd-soc-cs35l41.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/bcm_dbg.ko
+Module Name: bcm_dbg.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/mailbox-wc.ko
+Module Name: mailbox-wc.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/cs40l26-core.ko
+Module Name: cs40l26-core.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/max77729_charger.ko
+Module Name: max77729_charger.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6dd9d09a2978
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/snd-soc-cs35l41-i2c.ko
+Module Name: snd-soc-cs35l41-i2c.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6fee3b4fec55
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/mali_kutf.ko
+Module Name: mali_kutf.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g74a6aa46f9ff
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/panel-boe-nt37290.ko
+Module Name: panel-boe-nt37290.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g13ee4944a0a8
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/cfg80211.ko
+Module Name: cfg80211.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g0ad2215f2207
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/dbgcore-dump.ko
+Module Name: dbgcore-dump.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_channel_dev.ko
+Module Name: aoc_channel_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/mac80211.ko
+Module Name: mac80211.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g0ad2215f2207
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/rio.ko
+Module Name: rio.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: gc2ea677a7597
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/sec_touch.ko
+Module Name: sec_touch.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6a1d0a00ed5f
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/goodix_brl_touch.ko
+Module Name: goodix_brl_touch.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g84359c571f42
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/stmvl53l1.ko
+Module Name: stmvl53l1.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/max77729_uic.ko
+Module Name: max77729_uic.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6dd9d09a2978
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/lwis.ko
+Module Name: lwis.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g79c37e0fef54
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/pinctrl-slg51002.ko
+Module Name: pinctrl-slg51002.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g867a69512746
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/wlan_ptracker.ko
+Module Name: wlan_ptracker.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g03fc8e5cd0fa
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/aoc_control_dev.ko
+Module Name: aoc_control_dev.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g47a75bb986d5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/mali_kutf_clk_rate_trace_test_portal.ko
+Module Name: mali_kutf_clk_rate_trace_test_portal.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g74a6aa46f9ff
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/softdog.ko
+Module Name: softdog.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g0ad2215f2207
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/nitrous.ko
+Module Name: nitrous.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g474c1eabcebe
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/arm_dsu_pmu.ko
+Module Name: arm_dsu_pmu.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g0ad2215f2207
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/bcmdhd4398.ko
+Module Name: bcmdhd4398.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g07538145e8e5
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/goog_touch_interface.ko
+Module Name: goog_touch_interface.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: ga8ac326d9ba6
+
+Filename: shiba-ap4a.241205.013/vendor_dlkm/lib/modules/google_dual_batt_gauge.ko
+Module Name: google_dual_batt_gauge.ko
+Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64
+scmversion: g6dd9d09a2978
+

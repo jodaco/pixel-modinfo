@@ -1,0 +1,1619 @@
+oriole-bp4a.251205.006
+kernel_rev: 6.1.145-android14-11-gc1de4747ac59-ab14219743
+kernel_commit: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/6lowpan.ko
+Module Name: 6lowpan.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/8021q.ko
+Module Name: 8021q.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/abrolhos.ko
+Module Name: abrolhos.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g88bf5e31b71d
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/acpm_flexpmu_dbg.ko
+Module Name: acpm_flexpmu_dbg.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/acpm_mbox_test.ko
+Module Name: acpm_mbox_test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
+Module Name: aoc_alsa_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_alsa_dev_util.ko
+Module Name: aoc_alsa_dev_util.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_channel_dev.ko
+Module Name: aoc_channel_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_char_dev.ko
+Module Name: aoc_char_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_control_dev.ko
+Module Name: aoc_control_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_core.ko
+Module Name: aoc_core.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_tbn_service_dev.ko
+Module Name: aoc_tbn_service_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_unit_test_dev.ko
+Module Name: aoc_unit_test_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_usb_driver.ko
+Module Name: aoc_usb_driver.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_uwb_platform_drv.ko
+Module Name: aoc_uwb_platform_drv.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aoc_uwb_service_dev.ko
+Module Name: aoc_uwb_service_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/aqc111.ko
+Module Name: aqc111.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/arm_dsu_pmu.ko
+Module Name: arm_dsu_pmu.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/asix.ko
+Module Name: asix.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/at24.ko
+Module Name: at24.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/audiometrics.ko
+Module Name: audiometrics.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ax88179_178a.ko
+Module Name: ax88179_178a.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bbd_pps_gpio.ko
+Module Name: bbd_pps_gpio.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g48aa1cc44caf
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bc_max77759.ko
+Module Name: bc_max77759.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bcm47765.ko
+Module Name: bcm47765.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g48aa1cc44caf
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bcm_dbg.ko
+Module Name: bcm_dbg.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bcmdhd4389.ko
+Module Name: bcmdhd4389.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gf226852a4d83
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bigwave.ko
+Module Name: bigwave.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g1cafee89b88c
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bluetooth.ko
+Module Name: bluetooth.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/boot_control_sysfs.ko
+Module Name: boot_control_sysfs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/boot_device_spi.ko
+Module Name: boot_device_spi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bsd_comp.ko
+Module Name: bsd_comp.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/btbcm.ko
+Module Name: btbcm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/btqca.ko
+Module Name: btqca.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/bts.ko
+Module Name: bts.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/btsdio.ko
+Module Name: btsdio.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/can-bcm.ko
+Module Name: can-bcm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/can-dev.ko
+Module Name: can-dev.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/can-gw.ko
+Module Name: can-gw.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/can-raw.ko
+Module Name: can-raw.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/can.ko
+Module Name: can.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cdc-acm.ko
+Module Name: cdc-acm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cdc_eem.ko
+Module Name: cdc_eem.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cdc_ether.ko
+Module Name: cdc_ether.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cdc_ncm.ko
+Module Name: cdc_ncm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cfg80211.ko
+Module Name: cfg80211.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/clk_exynos_gs.ko
+Module Name: clk_exynos_gs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cmupmucal.ko
+Module Name: cmupmucal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cp_thermal_zone.ko
+Module Name: cp_thermal_zone.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cpif.ko
+Module Name: cpif.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/cpif_page.ko
+Module Name: cpif_page.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/dbgcore-dump.ko
+Module Name: dbgcore-dump.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/debug-reboot.ko
+Module Name: debug-reboot.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/debug-snapshot-debug-kinfo.ko
+Module Name: debug-snapshot-debug-kinfo.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/debug-snapshot-qd.ko
+Module Name: debug-snapshot-qd.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/debug-snapshot-sfrdump.ko
+Module Name: debug-snapshot-sfrdump.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/diag.ko
+Module Name: diag.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/drm_display_helper.ko
+Module Name: drm_display_helper.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/drv2624.ko
+Module Name: drv2624.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/dss.ko
+Module Name: dss.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/dw3000-core-tests.ko
+Module Name: dw3000-core-tests.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/dw3000.ko
+Module Name: dw3000.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/dwc3-exynos-usb.ko
+Module Name: dwc3-exynos-usb.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ect_parser.ko
+Module Name: ect_parser.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/eh.ko
+Module Name: eh.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ehld.ko
+Module Name: ehld.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-acme.ko
+Module Name: exynos-acme.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-adv-tracer-s2d.ko
+Module Name: exynos-adv-tracer-s2d.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-adv-tracer.ko
+Module Name: exynos-adv-tracer.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-bcm_dbg-dump.ko
+Module Name: exynos-bcm_dbg-dump.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-coresight-etm.ko
+Module Name: exynos-coresight-etm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-coresight.ko
+Module Name: exynos-coresight.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-cpuhp.ko
+Module Name: exynos-cpuhp.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-cpupm.ko
+Module Name: exynos-cpupm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-debug-test.ko
+Module Name: exynos-debug-test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-dm.ko
+Module Name: exynos-dm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-drm-audio.ko
+Module Name: exynos-drm-audio.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-drm.ko
+Module Name: exynos-drm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-ecc-handler.ko
+Module Name: exynos-ecc-handler.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pd-dbg.ko
+Module Name: exynos-pd-dbg.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pd.ko
+Module Name: exynos-pd.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pd_el3.ko
+Module Name: exynos-pd_el3.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pd_hsi0.ko
+Module Name: exynos-pd_hsi0.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pm.ko
+Module Name: exynos-pm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-pmu-if.ko
+Module Name: exynos-pmu-if.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos-seclog.ko
+Module Name: exynos-seclog.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_devfreq.ko
+Module Name: exynos_devfreq.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_dit.ko
+Module Name: exynos_dit.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_mct.ko
+Module Name: exynos_mct.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_mfc.ko
+Module Name: exynos_mfc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_pm_qos.ko
+Module Name: exynos_pm_qos.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exynos_tty.ko
+Module Name: exynos_tty.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/exyswd-rng.ko
+Module Name: exyswd-rng.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/fips140.ko
+Module Name: fips140.ko
+Vermagic: 6.1.75-android14-11-g5dc2bc296647-ab11690398 SMP preempt mod_unload modversions aarch64
+scmversion: g5dc2bc296647
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/fps_touch_handler.ko
+Module Name: fps_touch_handler.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gb6c9ddba4df4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ftdi_sio.ko
+Module Name: ftdi_sio.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ftm5.ko
+Module Name: ftm5.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9e5b4f7d8dba
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/g2d.ko
+Module Name: g2d.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/goodixfp.ko
+Module Name: goodixfp.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/goog_touch_interface.ko
+Module Name: goog_touch_interface.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g5037fa1265af
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google-battery.ko
+Module Name: google-battery.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google-bms.ko
+Module Name: google-bms.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google-charger.ko
+Module Name: google-charger.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google-cpm.ko
+Module Name: google-cpm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_bcl.ko
+Module Name: google_bcl.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g54932a91052c
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_ccd.ko
+Module Name: google_ccd.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_dock.ko
+Module Name: google_dock.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_dual_batt_gauge.ko
+Module Name: google_dual_batt_gauge.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_modemctl.ko
+Module Name: google_modemctl.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/google_tcpci_shim.ko
+Module Name: google_tcpci_shim.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gpu_cooling.ko
+Module Name: gpu_cooling.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs-chipid.ko
+Module Name: gs-chipid.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs-drm-connector.ko
+Module Name: gs-drm-connector.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g15c35e18d68f
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs-panel.ko
+Module Name: gs-panel.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g15c35e18d68f
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs101_spmic_thermal.ko
+Module Name: gs101_spmic_thermal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs_acpm.ko
+Module Name: gs_acpm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs_governor_memlat.ko
+Module Name: gs_governor_memlat.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs_governor_utils.ko
+Module Name: gs_governor_utils.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs_perf_mon.ko
+Module Name: gs_perf_mon.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gs_thermal.ko
+Module Name: gs_thermal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gsa.ko
+Module Name: gsa.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gsa_gsc.ko
+Module Name: gsa_gsc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gsc-spi.ko
+Module Name: gsc-spi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gvotable.ko
+Module Name: gvotable.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/gzvm.ko
+Module Name: gzvm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/haptics-cs40l2x.ko
+Module Name: haptics-cs40l2x.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/hardlockup-debug.ko
+Module Name: hardlockup-debug.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/hardlockup-watchdog.ko
+Module Name: hardlockup-watchdog.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/hci_uart.ko
+Module Name: hci_uart.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/heatmap.ko
+Module Name: heatmap.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g5037fa1265af
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/hidp.ko
+Module Name: hidp.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/hl7132.ko
+Module Name: hl7132.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/i2c-acpm.ko
+Module Name: i2c-acpm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/i2c-dev.ko
+Module Name: i2c-dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/i2c-exynos5.ko
+Module Name: i2c-exynos5.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ieee802154.ko
+Module Name: ieee802154.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ieee802154_6lowpan.ko
+Module Name: ieee802154_6lowpan.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ieee802154_socket.ko
+Module Name: ieee802154_socket.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/iovad-vendor-hooks.ko
+Module Name: iovad-vendor-hooks.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/itmon.ko
+Module Name: itmon.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/kernel-top.ko
+Module Name: kernel-top.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/keycombo.ko
+Module Name: keycombo.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/keydebug.ko
+Module Name: keydebug.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/kheaders.ko
+Module Name: kheaders.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/l2tp_core.ko
+Module Name: l2tp_core.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/l2tp_ppp.ko
+Module Name: l2tp_ppp.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/libarc4.ko
+Module Name: libarc4.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ln8411.ko
+Module Name: ln8411.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/logbuffer.ko
+Module Name: logbuffer.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/lwis.ko
+Module Name: lwis.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gc0f1930a9fe5
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mac80211.ko
+Module Name: mac80211.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mac802154.ko
+Module Name: mac802154.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mailbox-wc.ko
+Module Name: mailbox-wc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g10133eea3383
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mali_kbase.ko
+Module Name: mali_kbase.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g423dd600ca07
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mali_kutf.ko
+Module Name: mali_kutf.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g423dd600ca07
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mali_kutf_clk_rate_trace_test_portal.ko
+Module Name: mali_kutf_clk_rate_trace_test_portal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g423dd600ca07
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mali_pixel.ko
+Module Name: mali_pixel.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g423dd600ca07
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max1720x-battery.ko
+Module Name: max1720x-battery.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max20339.ko
+Module Name: max20339.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77729-pmic.ko
+Module Name: max77729-pmic.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77729_charger.ko
+Module Name: max77729_charger.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77729_uic.ko
+Module Name: max77729_uic.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77759-charger.ko
+Module Name: max77759-charger.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77759_contaminant.ko
+Module Name: max77759_contaminant.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77759_helper.ko
+Module Name: max77759_helper.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-charger-i2c.ko
+Module Name: max77779-charger-i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-charger.ko
+Module Name: max77779-charger.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-fg-i2c.ko
+Module Name: max77779-fg-i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-fg.ko
+Module Name: max77779-fg.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-fwupdate.ko
+Module Name: max77779-fwupdate.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-sp-i2c.ko
+Module Name: max77779-sp-i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-sp.ko
+Module Name: max77779-sp.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-vimon-i2c.ko
+Module Name: max77779-vimon-i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779-vimon.ko
+Module Name: max77779-vimon.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_contaminant.ko
+Module Name: max77779_contaminant.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_i2cm.ko
+Module Name: max77779_i2cm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_i2cm_i2c.ko
+Module Name: max77779_i2cm_i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_pmic.ko
+Module Name: max77779_pmic.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_pmic_i2c.ko
+Module Name: max77779_pmic_i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_pmic_irq.ko
+Module Name: max77779_pmic_irq.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_pmic_pinctrl.ko
+Module Name: max77779_pmic_pinctrl.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77779_pmic_sgpio.ko
+Module Name: max77779_pmic_sgpio.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max777x9_contaminant.ko
+Module Name: max777x9_contaminant.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/max77826-gs-regulator.ko
+Module Name: max77826-gs-regulator.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mcps802154.ko
+Module Name: mcps802154.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mcps802154_region_fira.ko
+Module Name: mcps802154_region_fira.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mcps802154_region_nfcc_coex.ko
+Module Name: mcps802154_region_nfcc_coex.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mcps802154_region_pctt.ko
+Module Name: mcps802154_region_pctt.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g7c7a4c9c2a90
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/mii.ko
+Module Name: mii.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nfc.ko
+Module Name: nfc.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_dest.ko
+Module Name: nhc_dest.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_fragment.ko
+Module Name: nhc_fragment.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_hop.ko
+Module Name: nhc_hop.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_ipv6.ko
+Module Name: nhc_ipv6.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_mobility.ko
+Module Name: nhc_mobility.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_routing.ko
+Module Name: nhc_routing.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nhc_udp.ko
+Module Name: nhc_udp.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/nitrous.ko
+Module Name: nitrous.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gd76860f23904
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/odpm-whi.ko
+Module Name: odpm-whi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/p9221.ko
+Module Name: p9221.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-boe-nt37290.ko
+Module Name: panel-boe-nt37290.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-common.ko
+Module Name: panel-common.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-drv.ko
+Module Name: panel-samsung-drv.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-emul.ko
+Module Name: panel-samsung-emul.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3fc3-p10.ko
+Module Name: panel-samsung-s6e3fc3-p10.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3fc3.ko
+Module Name: panel-samsung-s6e3fc3.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3hc2.ko
+Module Name: panel-samsung-s6e3hc2.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3hc3-c10.ko
+Module Name: panel-samsung-s6e3hc3-c10.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3hc3.ko
+Module Name: panel-samsung-s6e3hc3.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-s6e3hc4.ko
+Module Name: panel-samsung-s6e3hc4.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/panel-samsung-sofef01.ko
+Module Name: panel-samsung-sofef01.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gac8fd83d9874
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pca9468.ko
+Module Name: pca9468.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pcie-exynos-gs.ko
+Module Name: pcie-exynos-gs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pcie-exynos-gs101-rc-cal.ko
+Module Name: pcie-exynos-gs101-rc-cal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/phy-exynos-mipi-dsim.ko
+Module Name: phy-exynos-mipi-dsim.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/phy-exynos-mipi.ko
+Module Name: phy-exynos-mipi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/phy-exynos-usbdrd-super.ko
+Module Name: phy-exynos-usbdrd-super.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pinctrl-exynos-gs.ko
+Module Name: pinctrl-exynos-gs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pinctrl-slg51000.ko
+Module Name: pinctrl-slg51000.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel-boot-metrics.ko
+Module Name: pixel-boot-metrics.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel-debug-test.ko
+Module Name: pixel-debug-test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel-reboot.ko
+Module Name: pixel-reboot.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gc7852796f271
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel-suspend-diag.ko
+Module Name: pixel-suspend-diag.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel_em.ko
+Module Name: pixel_em.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel_metrics.ko
+Module Name: pixel_metrics.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel_stat_mm.ko
+Module Name: pixel_stat_mm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pixel_stat_sysfs.ko
+Module Name: pixel_stat_sysfs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pktgen.ko
+Module Name: pktgen.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pl330.ko
+Module Name: pl330.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pmic_class.ko
+Module Name: pmic_class.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/power_stats.ko
+Module Name: power_stats.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ppp_deflate.ko
+Module Name: ppp_deflate.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ppp_generic.ko
+Module Name: ppp_generic.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ppp_mppe.ko
+Module Name: ppp_mppe.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pppox.ko
+Module Name: pppox.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/pptp.ko
+Module Name: pptp.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/r8152.ko
+Module Name: r8152.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/r8153_ecm.ko
+Module Name: r8153_ecm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/rfcomm.ko
+Module Name: rfcomm.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/rfkill.ko
+Module Name: rfkill.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/rt9471_charger.ko
+Module Name: rt9471_charger.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9ddb4ddd9bda
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/rtc-s2mpg10.ko
+Module Name: rtc-s2mpg10.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/rtl8150.ko
+Module Name: rtl8150.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg10-mfd.ko
+Module Name: s2mpg10-mfd.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg10-powermeter.ko
+Module Name: s2mpg10-powermeter.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg10-regulator.ko
+Module Name: s2mpg10-regulator.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg11-mfd.ko
+Module Name: s2mpg11-mfd.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg11-powermeter.ko
+Module Name: s2mpg11-powermeter.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg11-regulator.ko
+Module Name: s2mpg11-regulator.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpg1x-gpio.ko
+Module Name: s2mpg1x-gpio.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s2mpu.ko
+Module Name: s2mpu.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/s3c2410_wdt.ko
+Module Name: s3c2410_wdt.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/samsung-dma.ko
+Module Name: samsung-dma.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/samsung-iommu-group.ko
+Module Name: samsung-iommu-group.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/samsung-secure-iova.ko
+Module Name: samsung-secure-iova.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/samsung_iommu.ko
+Module Name: samsung_iommu.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sbb-mux.ko
+Module Name: sbb-mux.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sched_tp.ko
+Module Name: sched_tp.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sec_touch.ko
+Module Name: sec_touch.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g9f201f13f892
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sg.ko
+Module Name: sg.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/shm_ipc.ko
+Module Name: shm_ipc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gbacd54838cad
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sjtag-driver.ko
+Module Name: sjtag-driver.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slc_acpm.ko
+Module Name: slc_acpm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slc_dummy.ko
+Module Name: slc_dummy.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slc_pmon.ko
+Module Name: slc_pmon.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slc_pt.ko
+Module Name: slc_pt.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slcan.ko
+Module Name: slcan.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slg46826.ko
+Module Name: slg46826.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slg51000-core.ko
+Module Name: slg51000-core.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slg51000-regulator.ko
+Module Name: slg51000-regulator.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/slhc.ko
+Module Name: slhc.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/smfc.ko
+Module Name: smfc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/smra.ko
+Module Name: smra.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/snd-soc-cs35l41-i2c.ko
+Module Name: snd-soc-cs35l41-i2c.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/snd-soc-cs35l41-spi.ko
+Module Name: snd-soc-cs35l41-spi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/snd-soc-cs35l41.ko
+Module Name: snd-soc-cs35l41.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/snd-soc-wm-adsp.ko
+Module Name: snd-soc-wm-adsp.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/snd_soc_cs40l2x.ko
+Module Name: snd_soc_cs40l2x.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g07462a0850b3
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/softdog.ko
+Module Name: softdog.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/spi-s3c64xx.ko
+Module Name: spi-s3c64xx.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/spidev.ko
+Module Name: spidev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g8dd788b6a8b4
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sscoredump.ko
+Module Name: sscoredump.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sscoredump_sample_test.ko
+Module Name: sscoredump_sample_test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g21e164d0da08
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sscoredump_test.ko
+Module Name: sscoredump_test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g21e164d0da08
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/st21nfc.ko
+Module Name: st21nfc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g0babb85890ce
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/st33spi.ko
+Module Name: st33spi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g0babb85890ce
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/st54spi.ko
+Module Name: st54spi.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g0babb85890ce
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/stmvl53l1.ko
+Module Name: stmvl53l1.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/sysrq-hook.ko
+Module Name: sysrq-hook.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/systrace.ko
+Module Name: systrace.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/tcpci_fusb307.ko
+Module Name: tcpci_fusb307.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/tcpci_max77759.ko
+Module Name: tcpci_max77759.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/tipc.ko
+Module Name: tipc.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/touch_bus_negotiator.ko
+Module Name: touch_bus_negotiator.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g5037fa1265af
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/touch_offload.ko
+Module Name: touch_offload.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g5037fa1265af
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/trusty-core.ko
+Module Name: trusty-core.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g4432262728a6
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/trusty-ipc.ko
+Module Name: trusty-ipc.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g4432262728a6
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/trusty-log.ko
+Module Name: trusty-log.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g4432262728a6
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/trusty-test.ko
+Module Name: trusty-test.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g4432262728a6
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/trusty-virtio.ko
+Module Name: trusty-virtio.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: g4432262728a6
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ufs-exynos-gs.ko
+Module Name: ufs-exynos-gs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/ufs-pixel-fips140.ko
+Module Name: ufs-pixel-fips140.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usb_f_dm.ko
+Module Name: usb_f_dm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usb_f_dm1.ko
+Module Name: usb_f_dm1.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usb_f_etr_miu.ko
+Module Name: usb_f_etr_miu.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usb_psy.ko
+Module Name: usb_psy.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usbc_cooling_dev.ko
+Module Name: usbc_cooling_dev.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usbnet.ko
+Module Name: usbnet.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/usbserial.ko
+Module Name: usbserial.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vcan.ko
+Module Name: vcan.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_cgroup.ko
+Module Name: vh_cgroup.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_fs.ko
+Module Name: vh_fs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_mm.ko
+Module Name: vh_mm.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_preemptirq_long.ko
+Module Name: vh_preemptirq_long.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_sched.ko
+Module Name: vh_sched.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/vh_thermal.ko
+Module Name: vh_thermal.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/wwan.ko
+Module Name: wwan.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/xhci-exynos.ko
+Module Name: xhci-exynos.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/zcomp_cpu.ko
+Module Name: zcomp_cpu.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/zcomp_eh.ko
+Module Name: zcomp_eh.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/zram_gs.ko
+Module Name: zram_gs.ko
+Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64
+scmversion: gdc2ad6bb9d42
+
+Filename: oriole-bp4a.251205.006/vendor_dlkm/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 6.1.145-android14-11-gc1de4747ac59-ab14219743 SMP preempt mod_unload modversions aarch64
+scmversion: gc1de4747ac59
+

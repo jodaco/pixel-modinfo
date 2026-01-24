@@ -1,0 +1,299 @@
+tokay-ap4a.250105.002.b1
+kernel_rev: 6.1.84-android14-11-g5c500deec3a7-ab1241827
+kernel_commit: g5c500deec3a7
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/snd-soc-wm-adsp.ko
+Module Name: snd-soc-wm-adsp.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/bcmdhd4390.ko
+Module Name: bcmdhd4390.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gd6ecd21f204a
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/arm_dsu_pmu.ko
+Module Name: arm_dsu_pmu.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gbacf38cee60b
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/hall_sensor.ko
+Module Name: hall_sensor.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g79c02d27571d
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/wlan_ptracker.ko
+Module Name: wlan_ptracker.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g5ec439de3763
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/rio.ko
+Module Name: rio.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec7471405fe0
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/snd-soc-cs35l41-i2c.ko
+Module Name: snd-soc-cs35l41-i2c.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/bbd_pps_gpio.ko
+Module Name: bbd_pps_gpio.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: ga2c6afa69fe4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_uwb_platform_drv.ko
+Module Name: aoc_uwb_platform_drv.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/snd-soc-cs35l41-spi.ko
+Module Name: snd-soc-cs35l41-spi.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/google_ccd.ko
+Module Name: google_ccd.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g090b52b05199
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/exynos-seclog.ko
+Module Name: exynos-seclog.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/mac80211.ko
+Module Name: mac80211.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gbacf38cee60b
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/lwis.ko
+Module Name: lwis.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g8cc7b7fc2fff
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/qm35.ko
+Module Name: qm35.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb4c00836c700
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_unit_test_dev.ko
+Module Name: aoc_unit_test_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/mali_kutf.ko
+Module Name: mali_kutf.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g7246056a23a6
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/mali_kutf_clk_rate_trace_test_portal.ko
+Module Name: mali_kutf_clk_rate_trace_test_portal.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g7246056a23a6
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/cp_thermal_zone.ko
+Module Name: cp_thermal_zone.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g0382b8a79d30
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/sscoredump_test.ko
+Module Name: sscoredump_test.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g50be1ae7444e
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/pinctrl-slg51002.ko
+Module Name: pinctrl-slg51002.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
+Module Name: aoc_alsa_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/max77729_charger.ko
+Module Name: max77729_charger.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g090b52b05199
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/cs40l26-i2c.ko
+Module Name: cs40l26-i2c.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_channel_dev.ko
+Module Name: aoc_channel_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/softdog.ko
+Module Name: softdog.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gbacf38cee60b
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/cfg80211.ko
+Module Name: cfg80211.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gbacf38cee60b
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/goodixfp.ko
+Module Name: goodixfp.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/goog_touch_interface.ko
+Module Name: goog_touch_interface.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g73e819fa3940
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/st33spi.ko
+Module Name: st33spi.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g5b2cd92a5de0
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/mailbox-wc.ko
+Module Name: mailbox-wc.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/sscoredump_sample_test.ko
+Module Name: sscoredump_sample_test.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g50be1ae7444e
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/ftm5.ko
+Module Name: ftm5.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g00bfb6ffa923
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/cs40l26-core.ko
+Module Name: cs40l26-core.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/stmvl53l1.ko
+Module Name: stmvl53l1.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/acpm_mbox_test.ko
+Module Name: acpm_mbox_test.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/snd-soc-cs40l26.ko
+Module Name: snd-soc-cs40l26.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/panel-boe-nt37290.ko
+Module Name: panel-boe-nt37290.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6d01de95a5df
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/vh_preemptirq_long.ko
+Module Name: vh_preemptirq_long.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/qbt_handler.ko
+Module Name: qbt_handler.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g7b94d6ccb063
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/max77779-fwupdate.ko
+Module Name: max77779-fwupdate.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g090b52b05199
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/heatmap.ko
+Module Name: heatmap.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g73e819fa3940
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/rt6160-regulator.ko
+Module Name: rt6160-regulator.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/cl_dsp-core.ko
+Module Name: cl_dsp-core.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/gxp.ko
+Module Name: gxp.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb25d28e34a45
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/fpc1020_platform_tee.ko
+Module Name: fpc1020_platform_tee.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g7c3f207e79bd
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/syna_touch.ko
+Module Name: syna_touch.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gd2d83aa34cf1
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/bcm_dbg.ko
+Module Name: bcm_dbg.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/rt9471_charger.ko
+Module Name: rt9471_charger.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g090b52b05199
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/dbgcore-dump.ko
+Module Name: dbgcore-dump.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/max77729_uic.ko
+Module Name: max77729_uic.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g090b52b05199
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/sec_touch.ko
+Module Name: sec_touch.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gc21d79038f71
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_char_dev.ko
+Module Name: aoc_char_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_uwb_service_dev.ko
+Module Name: aoc_uwb_service_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/aoc_control_dev.ko
+Module Name: aoc_control_dev.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g6e2ff3195254
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/goodix_brl_touch.ko
+Module Name: goodix_brl_touch.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gcae1b3af0bbd
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/snd-soc-cs35l41.ko
+Module Name: snd-soc-cs35l41.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gb48732481fde
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/nitrous.ko
+Module Name: nitrous.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: g78fe1bef0a65
+
+Filename: tokay-ap4a.250105.002.b1/vendor_dlkm/lib/modules/pa_kill.ko
+Module Name: pa_kill.ko
+Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64
+scmversion: gec0d2a4a93d4
+

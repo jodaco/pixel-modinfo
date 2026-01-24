@@ -1,0 +1,1099 @@
+oriole-sd1a.210817.037
+kernel_rev: 5.10.43-android12-9-00001-g3b35c4eea2da-ab7739787
+kernel_commit: g3b35c4eea2da
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/abrolhos.ko
+Module Name: abrolhos.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gf3671dbacc74
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/acpm_flexpmu_dbg.ko
+Module Name: acpm_flexpmu_dbg.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/acpm_mbox_test.ko
+Module Name: acpm_mbox_test.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
+Module Name: aoc_alsa_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_alsa_dev_util.ko
+Module Name: aoc_alsa_dev_util.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_channel_dev.ko
+Module Name: aoc_channel_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_char_dev.ko
+Module Name: aoc_char_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_control_dev.ko
+Module Name: aoc_control_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_core.ko
+Module Name: aoc_core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_usb_driver.ko
+Module Name: aoc_usb_driver.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_uwb_platform_drv.ko
+Module Name: aoc_uwb_platform_drv.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/aoc_uwb_service_dev.ko
+Module Name: aoc_uwb_service_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/arm-memlat-mon.ko
+Module Name: arm-memlat-mon.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/arm_dsu_pmu.ko
+Module Name: arm_dsu_pmu.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/at24.ko
+Module Name: at24.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/audiometrics.ko
+Module Name: audiometrics.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bbd.ko
+Module Name: bbd.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bc_max77759.ko
+Module Name: bc_max77759.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bcm47765.ko
+Module Name: bcm47765.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bcm_dbg.ko
+Module Name: bcm_dbg.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bcmdhd43752.ko
+Module Name: bcmdhd43752.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g8bac6b20d6c8
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bcmdhd4389.ko
+Module Name: bcmdhd4389.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g83f4849abe47
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/bigocean.ko
+Module Name: bigocean.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/boot_device_spi.ko
+Module Name: boot_device_spi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/cfg80211.ko
+Module Name: cfg80211.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/clk_exynos.ko
+Module Name: clk_exynos.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/cmupmucal.ko
+Module Name: cmupmucal.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/cp_thermal_zone.ko
+Module Name: cp_thermal_zone.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/cpif.ko
+Module Name: cpif.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/dbgcore-dump.ko
+Module Name: dbgcore-dump.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/debug-reboot.ko
+Module Name: debug-reboot.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/debug-snapshot-debug-kinfo.ko
+Module Name: debug-snapshot-debug-kinfo.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/debug-snapshot-qd.ko
+Module Name: debug-snapshot-qd.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/debug-snapshot-sfrdump.ko
+Module Name: debug-snapshot-sfrdump.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/drv2624.ko
+Module Name: drv2624.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/dss.ko
+Module Name: dss.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/dw3000.ko
+Module Name: dw3000.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g52aa95f98d90
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/dwc3-exynos-usb.ko
+Module Name: dwc3-exynos-usb.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/ect_parser.ko
+Module Name: ect_parser.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/eh.ko
+Module Name: eh.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-acme.ko
+Module Name: exynos-acme.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-adv-tracer-s2d.ko
+Module Name: exynos-adv-tracer-s2d.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-adv-tracer.ko
+Module Name: exynos-adv-tracer.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-bcm_dbg-dump.ko
+Module Name: exynos-bcm_dbg-dump.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-bts.ko
+Module Name: exynos-bts.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-btsopsgs101.ko
+Module Name: exynos-btsopsgs101.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-coresight-etm.ko
+Module Name: exynos-coresight-etm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-coresight.ko
+Module Name: exynos-coresight.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-cpuhp.ko
+Module Name: exynos-cpuhp.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-cpupm.ko
+Module Name: exynos-cpupm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-debug-test.ko
+Module Name: exynos-debug-test.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-dm.ko
+Module Name: exynos-dm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-drm.ko
+Module Name: exynos-drm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-ecc-handler.ko
+Module Name: exynos-ecc-handler.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-pd-dbg.ko
+Module Name: exynos-pd-dbg.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-pd.ko
+Module Name: exynos-pd.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-pd_el3.ko
+Module Name: exynos-pd_el3.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-pm.ko
+Module Name: exynos-pm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-pmu-if.ko
+Module Name: exynos-pmu-if.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-reboot.ko
+Module Name: exynos-reboot.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gcabb3d043ac6
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos-seclog.ko
+Module Name: exynos-seclog.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_devfreq.ko
+Module Name: exynos_devfreq.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_dit.ko
+Module Name: exynos_dit.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_mct.ko
+Module Name: exynos_mct.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_mfc.ko
+Module Name: exynos_mfc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_pm_qos.ko
+Module Name: exynos_pm_qos.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exynos_tty.ko
+Module Name: exynos_tty.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/exyswd-rng.ko
+Module Name: exyswd-rng.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/ftm5.ko
+Module Name: ftm5.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g07c50f7cbbaf
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/g2d.ko
+Module Name: g2d.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/goodixfp.ko
+Module Name: goodixfp.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google-battery.ko
+Module Name: google-battery.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google-bms.ko
+Module Name: google-bms.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google-charger.ko
+Module Name: google-charger.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google-cpm.ko
+Module Name: google-cpm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google_bcl.ko
+Module Name: google_bcl.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/google_dual_batt_gauge.ko
+Module Name: google_dual_batt_gauge.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/governor_memlat.ko
+Module Name: governor_memlat.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gpu_cooling.ko
+Module Name: gpu_cooling.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gs-chipid.ko
+Module Name: gs-chipid.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gs101-itmon.ko
+Module Name: gs101-itmon.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gs101_spmic_thermal.ko
+Module Name: gs101_spmic_thermal.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gs101_thermal.ko
+Module Name: gs101_thermal.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gs_acpm.ko
+Module Name: gs_acpm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gsa.ko
+Module Name: gsa.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gsa_gsc.ko
+Module Name: gsa_gsc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gsc-spi.ko
+Module Name: gsc-spi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/gvotable.ko
+Module Name: gvotable.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/haptics-cs40l2x.ko
+Module Name: haptics-cs40l2x.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/hardlockup-debug.ko
+Module Name: hardlockup-debug.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/hardlockup-watchdog.ko
+Module Name: hardlockup-watchdog.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/heatmap.ko
+Module Name: heatmap.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g7b53da6fbd38
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/i2c-acpm.ko
+Module Name: i2c-acpm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/i2c-dev.ko
+Module Name: i2c-dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/i2c-exynos5.ko
+Module Name: i2c-exynos5.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/keycombo.ko
+Module Name: keycombo.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/keydebug.ko
+Module Name: keydebug.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/logbuffer.ko
+Module Name: logbuffer.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/lwis.ko
+Module Name: lwis.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ged027a304006
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/lzo-rle.ko
+Module Name: lzo-rle.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/lzo.ko
+Module Name: lzo.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mac80211.ko
+Module Name: mac80211.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mailbox-wc.ko
+Module Name: mailbox-wc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ge200489641bd
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mali_kbase.ko
+Module Name: mali_kbase.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gc32bd52783de
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mali_pixel.ko
+Module Name: mali_pixel.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gc32bd52783de
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max1720x-battery.ko
+Module Name: max1720x-battery.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max20339.ko
+Module Name: max20339.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77729-pmic.ko
+Module Name: max77729-pmic.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77729_charger.ko
+Module Name: max77729_charger.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77729_uic.ko
+Module Name: max77729_uic.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77759_charger.ko
+Module Name: max77759_charger.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77759_contaminant.ko
+Module Name: max77759_contaminant.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77759_helper.ko
+Module Name: max77759_helper.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/max77826-gs-regulator.ko
+Module Name: max77826-gs-regulator.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mcps802154.ko
+Module Name: mcps802154.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g52aa95f98d90
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mcps802154_region_fira.ko
+Module Name: mcps802154_region_fira.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g52aa95f98d90
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/mcps802154_region_nfcc_coex.ko
+Module Name: mcps802154_region_nfcc_coex.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g52aa95f98d90
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/memlat-devfreq.ko
+Module Name: memlat-devfreq.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/nitrous.ko
+Module Name: nitrous.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gf554a2304b0a
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/odpm.ko
+Module Name: odpm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/overheat_mitigation.ko
+Module Name: overheat_mitigation.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/p9221.ko
+Module Name: p9221.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-drv.ko
+Module Name: panel-samsung-drv.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-emul.ko
+Module Name: panel-samsung-emul.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-s6e3fc3.ko
+Module Name: panel-samsung-s6e3fc3.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-s6e3hc2.ko
+Module Name: panel-samsung-s6e3hc2.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-s6e3hc3.ko
+Module Name: panel-samsung-s6e3hc3.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/panel-samsung-sofef01.ko
+Module Name: panel-samsung-sofef01.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: geac3fa77433b
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pca9468.ko
+Module Name: pca9468.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gfb04688f2973
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pcie-exynos-core.ko
+Module Name: pcie-exynos-core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pcie-exynos-gs101-rc-cal.ko
+Module Name: pcie-exynos-gs101-rc-cal.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/phy-exynos-mipi-dsim.ko
+Module Name: phy-exynos-mipi-dsim.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/phy-exynos-mipi.ko
+Module Name: phy-exynos-mipi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/phy-exynos-usbdrd-super.ko
+Module Name: phy-exynos-usbdrd-super.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pinctrl-samsung-core.ko
+Module Name: pinctrl-samsung-core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pinctrl-slg51000.ko
+Module Name: pinctrl-slg51000.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pixel-boot-metrics.ko
+Module Name: pixel-boot-metrics.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pixel-debug-test.ko
+Module Name: pixel-debug-test.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pixel_stat_mm.ko
+Module Name: pixel_stat_mm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pixel_stat_sysfs.ko
+Module Name: pixel_stat_sysfs.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pktgen.ko
+Module Name: pktgen.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pl330.ko
+Module Name: pl330.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/pmic_class.ko
+Module Name: pmic_class.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/power_stats.ko
+Module Name: power_stats.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/rtc-s2mpg10.ko
+Module Name: rtc-s2mpg10.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg10-mfd.ko
+Module Name: s2mpg10-mfd.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg10-powermeter.ko
+Module Name: s2mpg10-powermeter.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg10-regulator.ko
+Module Name: s2mpg10-regulator.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg11-mfd.ko
+Module Name: s2mpg11-mfd.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg11-powermeter.ko
+Module Name: s2mpg11-powermeter.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg11-regulator.ko
+Module Name: s2mpg11-regulator.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpg1x-gpio.ko
+Module Name: s2mpg1x-gpio.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s2mpu.ko
+Module Name: s2mpu.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/s3c2410_wdt.ko
+Module Name: s3c2410_wdt.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/samsung-dma.ko
+Module Name: samsung-dma.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/samsung-iommu-group.ko
+Module Name: samsung-iommu-group.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/samsung-secure-iova.ko
+Module Name: samsung-secure-iova.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/samsung_iommu.ko
+Module Name: samsung_iommu.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sbb-mux.ko
+Module Name: sbb-mux.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sched_tp.ko
+Module Name: sched_tp.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sec_touch.ko
+Module Name: sec_touch.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gb074276756d3
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sg.ko
+Module Name: sg.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/shm_ipc.ko
+Module Name: shm_ipc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sjtag-driver.ko
+Module Name: sjtag-driver.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slc_acpm.ko
+Module Name: slc_acpm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slc_dummy.ko
+Module Name: slc_dummy.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slc_pmon.ko
+Module Name: slc_pmon.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slc_pt.ko
+Module Name: slc_pt.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slg46826.ko
+Module Name: slg46826.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slg51000-core.ko
+Module Name: slg51000-core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/slg51000-regulator.ko
+Module Name: slg51000-regulator.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/smfc.ko
+Module Name: smfc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-cs35l41-i2c.ko
+Module Name: snd-soc-cs35l41-i2c.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-cs35l41-spi.ko
+Module Name: snd-soc-cs35l41-spi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-cs35l41.ko
+Module Name: snd-soc-cs35l41.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-max98357a.ko
+Module Name: snd-soc-max98357a.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-rl6231.ko
+Module Name: snd-soc-rl6231.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-rt5682-i2c.ko
+Module Name: snd-soc-rt5682-i2c.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-rt5682.ko
+Module Name: snd-soc-rt5682.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd-soc-wm-adsp.ko
+Module Name: snd-soc-wm-adsp.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/snd_soc_cs40l2x.ko
+Module Name: snd_soc_cs40l2x.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: gbab1a1e1ec16
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/softdog.ko
+Module Name: softdog.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/spi-s3c64xx.ko
+Module Name: spi-s3c64xx.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/spidev.ko
+Module Name: spidev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/sscoredump.ko
+Module Name: sscoredump.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/st21nfc.ko
+Module Name: st21nfc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g1f88df31f141
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/st33spi.ko
+Module Name: st33spi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g1f88df31f141
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/st54spi.ko
+Module Name: st54spi.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g1f88df31f141
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/stmvl53l1.ko
+Module Name: stmvl53l1.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/systrace.ko
+Module Name: systrace.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/tcpci_fusb307.ko
+Module Name: tcpci_fusb307.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/tcpci_max77759.ko
+Module Name: tcpci_max77759.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/touch_bus_negotiator.ko
+Module Name: touch_bus_negotiator.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g7b53da6fbd38
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/touch_offload.ko
+Module Name: touch_offload.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: g7b53da6fbd38
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-core.ko
+Module Name: trusty-core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-ipc.ko
+Module Name: trusty-ipc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-irq.ko
+Module Name: trusty-irq.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-log.ko
+Module Name: trusty-log.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-test.ko
+Module Name: trusty-test.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/trusty-virtio.ko
+Module Name: trusty-virtio.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/ufs-exynos-core.ko
+Module Name: ufs-exynos-core.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/usb_f_dm.ko
+Module Name: usb_f_dm.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/usb_f_dm1.ko
+Module Name: usb_f_dm1.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/usb_f_etr_miu.ko
+Module Name: usb_f_etr_miu.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/usb_psy.ko
+Module Name: usb_psy.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/usbc_cooling_dev.ko
+Module Name: usbc_cooling_dev.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_cgroup.ko
+Module Name: vh_cgroup.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_fs.ko
+Module Name: vh_fs.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_i2c.ko
+Module Name: vh_i2c.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_preemptirq_long.ko
+Module Name: vh_preemptirq_long.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_sched.ko
+Module Name: vh_sched.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/vh_thermal.ko
+Module Name: vh_thermal.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/videobuf2-dma-sg.ko
+Module Name: videobuf2-dma-sg.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/xhci-exynos.ko
+Module Name: xhci-exynos.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/zcomp_cpu.ko
+Module Name: zcomp_cpu.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/zcomp_eh.ko
+Module Name: zcomp_eh.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/zram.ko
+Module Name: zram.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
+Filename: oriole-sd1a.210817.037/vendor_dlkm/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 5.10.43-ga6b97bd06ec1-ab7771606 SMP preempt mod_unload modversions aarch64
+scmversion: ga6b97bd06ec1
+
