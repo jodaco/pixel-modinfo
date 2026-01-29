@@ -247,3 +247,291 @@ Module Name: pinctrl-slg51002.ko
 Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12357444 SMP preempt mod_unload modversions aarch64
 scmversion: g3d8a463927a5
 
+
+=== system_dlkm modules ===
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/libarc4.ko
+Module Name: libarc4.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/cdc_eem.ko
+Module Name: cdc_eem.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/r8153_ecm.ko
+Module Name: r8153_ecm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_udp.ko
+Module Name: nhc_udp.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/bluetooth.ko
+Module Name: bluetooth.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/bsd_comp.ko
+Module Name: bsd_comp.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/btbcm.ko
+Module Name: btbcm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/l2tp_core.ko
+Module Name: l2tp_core.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/can-dev.ko
+Module Name: can-dev.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/can-bcm.ko
+Module Name: can-bcm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/l2tp_ppp.ko
+Module Name: l2tp_ppp.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_dest.ko
+Module Name: nhc_dest.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/usbnet.ko
+Module Name: usbnet.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/can-raw.ko
+Module Name: can-raw.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/pptp.ko
+Module Name: pptp.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/btqca.ko
+Module Name: btqca.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/can-gw.ko
+Module Name: can-gw.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/asix.ko
+Module Name: asix.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/hci_uart.ko
+Module Name: hci_uart.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/rfcomm.ko
+Module Name: rfcomm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nfc.ko
+Module Name: nfc.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ppp_generic.ko
+Module Name: ppp_generic.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/6lowpan.ko
+Module Name: 6lowpan.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ieee802154.ko
+Module Name: ieee802154.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ieee802154_socket.ko
+Module Name: ieee802154_socket.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_routing.ko
+Module Name: nhc_routing.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/r8152.ko
+Module Name: r8152.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/mac802154.ko
+Module Name: mac802154.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/mii.ko
+Module Name: mii.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/slcan.ko
+Module Name: slcan.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/cdc-acm.ko
+Module Name: cdc-acm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ax88179_178a.ko
+Module Name: ax88179_178a.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_mobility.ko
+Module Name: nhc_mobility.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/can.ko
+Module Name: can.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/diag.ko
+Module Name: diag.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ieee802154_6lowpan.ko
+Module Name: ieee802154_6lowpan.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/cdc_ncm.ko
+Module Name: cdc_ncm.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/slhc.ko
+Module Name: slhc.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_hop.ko
+Module Name: nhc_hop.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/pppox.ko
+Module Name: pppox.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/aqc111.ko
+Module Name: aqc111.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/kheaders.ko
+Module Name: kheaders.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/8021q.ko
+Module Name: 8021q.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/btsdio.ko
+Module Name: btsdio.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/tipc.ko
+Module Name: tipc.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ppp_deflate.ko
+Module Name: ppp_deflate.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/hidp.ko
+Module Name: hidp.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_ipv6.ko
+Module Name: nhc_ipv6.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/rfkill.ko
+Module Name: rfkill.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/vcan.ko
+Module Name: vcan.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/nhc_fragment.ko
+Module Name: nhc_fragment.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ppp_mppe.ko
+Module Name: ppp_mppe.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/usbserial.ko
+Module Name: usbserial.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/rtl8150.ko
+Module Name: rtl8150.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/ftdi_sio.ko
+Module Name: ftdi_sio.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
+Filename: shiba-ap3a.241105.007/system_dlkm/lib/modules/cdc_ether.ko
+Module Name: cdc_ether.ko
+Vermagic: 5.15.148-android14-11-ge358535bc9c0-ab12324526 SMP preempt mod_unload modversions aarch64
+scmversion: ge358535bc9c0
+
