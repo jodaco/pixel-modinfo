@@ -540,3 +540,981 @@ Module Name: vcan.ko
 Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11664771 SMP preempt mod_unload modversions aarch64
 scmversion: gbf4f9bc41c3b
 
+
+=== vendor_kernel_boot modules ===
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/audiometrics.ko
+Module Name: audiometrics.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gc4bf2edb0525
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/itmon.ko
+Module Name: itmon.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/samsung_iommu_v9.ko
+Module Name: samsung_iommu_v9.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/etm2dram.ko
+Module Name: etm2dram.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gpu_cooling.ko
+Module Name: gpu_cooling.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3hc2.ko
+Module Name: panel-samsung-s6e3hc2.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/bigwave.ko
+Module Name: bigwave.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ga8c088189c41
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-drm-audio.ko
+Module Name: exynos-drm-audio.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/aoc_tbn_service_dev.ko
+Module Name: aoc_tbn_service_dev.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gcd2de84d0840
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pd-dbg.ko
+Module Name: exynos-pd-dbg.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3hc3-c10.ko
+Module Name: panel-samsung-s6e3hc3-c10.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/trusty-virtio.ko
+Module Name: trusty-virtio.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78d5d68e86e0
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-hdcp2.ko
+Module Name: exynos-hdcp2.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ga58fa84d6dff
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg15_spmic_thermal.ko
+Module Name: s2mpg15_spmic_thermal.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/hardlockup-debug.ko
+Module Name: hardlockup-debug.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3fc3.ko
+Module Name: panel-samsung-s6e3fc3.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s3c2410_wdt.ko
+Module Name: s3c2410_wdt.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usb_f_rndis.ko
+Module Name: usb_f_rndis.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-bcm_dbg-dump.ko
+Module Name: exynos-bcm_dbg-dump.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slc_acpm.ko
+Module Name: slc_acpm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/trusty-core.ko
+Module Name: trusty-core.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78d5d68e86e0
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic.ko
+Module Name: max77779_pmic.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/logbuffer.ko
+Module Name: logbuffer.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/sched_tp.ko
+Module Name: sched_tp.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779-fg.ko
+Module Name: max77779-fg.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/acpm_flexpmu_dbg.ko
+Module Name: acpm_flexpmu_dbg.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/spmi_bit_bang.ko
+Module Name: spmi_bit_bang.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/trusty-log.ko
+Module Name: trusty-log.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78d5d68e86e0
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/keycombo.ko
+Module Name: keycombo.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max20339.ko
+Module Name: max20339.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/bcm47765.ko
+Module Name: bcm47765.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf5699559aa3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/dwc3-exynos-usb.ko
+Module Name: dwc3-exynos-usb.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3fc3-p10.ko
+Module Name: panel-samsung-s6e3fc3-p10.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pl330.ko
+Module Name: pl330.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos_devfreq.ko
+Module Name: exynos_devfreq.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/st21nfc.ko
+Module Name: st21nfc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g710621816bb5
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3hc3.ko
+Module Name: panel-samsung-s6e3hc3.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/google-cpm.ko
+Module Name: google-cpm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_pinctrl.ko
+Module Name: max77779_pmic_pinctrl.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/hardlockup-watchdog.ko
+Module Name: hardlockup-watchdog.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-coresight-etm.ko
+Module Name: exynos-coresight-etm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/eusb_repeater.ko
+Module Name: eusb_repeater.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-emul.ko
+Module Name: panel-samsung-emul.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel_metrics.ko
+Module Name: pixel_metrics.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/samsung-iommu-group.ko
+Module Name: samsung-iommu-group.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779-charger.ko
+Module Name: max77779-charger.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg15-powermeter.ko
+Module Name: s2mpg15-powermeter.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pcie-iommu.ko
+Module Name: exynos-pcie-iommu.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/google-bms.ko
+Module Name: google-bms.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77759_contaminant.ko
+Module Name: max77759_contaminant.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/sscoredump.ko
+Module Name: sscoredump.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-dm.ko
+Module Name: exynos-dm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/systrace.ko
+Module Name: systrace.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/vh_cgroup.ko
+Module Name: vh_cgroup.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pm.ko
+Module Name: exynos-pm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/debug-reboot.ko
+Module Name: debug-reboot.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel-debug-test.ko
+Module Name: pixel-debug-test.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/xhci-exynos.ko
+Module Name: xhci-exynos.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/debug-snapshot-debug-kinfo.ko
+Module Name: debug-snapshot-debug-kinfo.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg14-mfd.ko
+Module Name: s2mpg14-mfd.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/trusty-test.ko
+Module Name: trusty-test.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78d5d68e86e0
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-debug-test.ko
+Module Name: exynos-debug-test.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/dss.ko
+Module Name: dss.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s5910.ko
+Module Name: s5910.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-adv-tracer.ko
+Module Name: exynos-adv-tracer.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usb_psy.ko
+Module Name: usb_psy.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-s6e3hc4.ko
+Module Name: panel-samsung-s6e3hc4.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/bc_max77759.ko
+Module Name: bc_max77759.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/open-dice.ko
+Module Name: open-dice.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel-boot-metrics.ko
+Module Name: pixel-boot-metrics.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779-sp.ko
+Module Name: max77779-sp.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77729-pmic.ko
+Module Name: max77729-pmic.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/rtc-s2mpg14.ko
+Module Name: rtc-s2mpg14.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/vh_fs.ko
+Module Name: vh_fs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/vh_sched.ko
+Module Name: vh_sched.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/phy-exynos-usbdrd-eusb-super.ko
+Module Name: phy-exynos-usbdrd-eusb-super.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779_i2cm.ko
+Module Name: max77779_i2cm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max1720x-battery.ko
+Module Name: max1720x-battery.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/phy-exynos-mipi-dsim.ko
+Module Name: phy-exynos-mipi-dsim.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/sjtag-driver.ko
+Module Name: sjtag-driver.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/touch_offload.ko
+Module Name: touch_offload.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78cc86a95aa6
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/bts.ko
+Module Name: bts.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/clk_exynos_gs.ko
+Module Name: clk_exynos_gs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/st54spi.ko
+Module Name: st54spi.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g710621816bb5
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs-chipid.ko
+Module Name: gs-chipid.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/cmupmucal.ko
+Module Name: cmupmucal.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pkvm-s2mpu-v9.ko
+Module Name: pkvm-s2mpu-v9.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/spidev.ko
+Module Name: spidev.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/vh_mm.ko
+Module Name: vh_mm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos_mct_v3.ko
+Module Name: exynos_mct_v3.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pca9468.ko
+Module Name: pca9468.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slc_pmon.ko
+Module Name: slc_pmon.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gcma.ko
+Module Name: gcma.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/google-charger.ko
+Module Name: google-charger.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/cpif_page.ko
+Module Name: cpif_page.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/zcomp_eh.ko
+Module Name: zcomp_eh.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/perf_trace_counters.ko
+Module Name: perf_trace_counters.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77759_helper.ko
+Module Name: max77759_helper.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/google_bcl.ko
+Module Name: google_bcl.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/g2d.ko
+Module Name: g2d.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/samsung-dma.ko
+Module Name: samsung-dma.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/aoc_core.ko
+Module Name: aoc_core.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gcd2de84d0840
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/zram_gs.ko
+Module Name: zram_gs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/mali_kbase.ko
+Module Name: mali_kbase.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gb10c289812d1
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/smfc.ko
+Module Name: smfc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_irq.ko
+Module Name: max77779_pmic_irq.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pinctrl-exynos-gs.ko
+Module Name: pinctrl-exynos-gs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_dsulat_devfreq.ko
+Module Name: gs_dsulat_devfreq.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_memlat_devfreq.ko
+Module Name: gs_memlat_devfreq.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_acpm.ko
+Module Name: gs_acpm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos_tty.ko
+Module Name: exynos_tty.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/ufs-pixel-fips140.ko
+Module Name: ufs-pixel-fips140.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-sofef01.ko
+Module Name: panel-samsung-sofef01.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-samsung-drv.ko
+Module Name: panel-samsung-drv.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/ehld.ko
+Module Name: ehld.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-drm.ko
+Module Name: exynos-drm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pcie-exynos-gs.ko
+Module Name: pcie-exynos-gs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/ufs-exynos-gs.ko
+Module Name: ufs-exynos-gs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-google-bigsurf.ko
+Module Name: panel-google-bigsurf.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2decb3faf39d
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/i2c-dev.ko
+Module Name: i2c-dev.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gsa_gsc.ko
+Module Name: gsa_gsc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77759-charger.ko
+Module Name: max77759-charger.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pmic_class.ko
+Module Name: pmic_class.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pd_el3.ko
+Module Name: exynos-pd_el3.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-cpuhp.ko
+Module Name: exynos-cpuhp.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/sbb-mux.ko
+Module Name: sbb-mux.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/samsung-secure-iova.ko
+Module Name: samsung-secure-iova.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/bookerci.ko
+Module Name: bookerci.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/ect_parser.ko
+Module Name: ect_parser.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usb_f_dm1.ko
+Module Name: usb_f_dm1.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usb_f_dm.ko
+Module Name: usb_f_dm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_perf_mon.ko
+Module Name: gs_perf_mon.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gsa.ko
+Module Name: gsa.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/cpif.ko
+Module Name: cpif.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slg51002-core.ko
+Module Name: slg51002-core.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/eh.ko
+Module Name: eh.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_utils.ko
+Module Name: gs_governor_utils.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-cpupm.ko
+Module Name: exynos-cpupm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg14-key.ko
+Module Name: s2mpg14-key.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-reboot.ko
+Module Name: exynos-reboot.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g6070bd507ec7
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usb_f_etr_miu.ko
+Module Name: usb_f_etr_miu.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel_stat_mm.ko
+Module Name: pixel_stat_mm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos_pm_qos.ko
+Module Name: exynos_pm_qos.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slc_dummy.ko
+Module Name: slc_dummy.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slc_pt.ko
+Module Name: slc_pt.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-adv-tracer-s2d.ko
+Module Name: exynos-adv-tracer-s2d.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-acme.ko
+Module Name: exynos-acme.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos_mfc.ko
+Module Name: exynos_mfc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel_em.ko
+Module Name: pixel_em.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg15-mfd.ko
+Module Name: s2mpg15-mfd.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/spi-s3c64xx.ko
+Module Name: spi-s3c64xx.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pd.ko
+Module Name: exynos-pd.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/phy-exynos-mipi.ko
+Module Name: phy-exynos-mipi.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/odpm.ko
+Module Name: odpm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg14-regulator.ko
+Module Name: s2mpg14-regulator.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/slg51002-regulator.ko
+Module Name: slg51002-regulator.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_thermal.ko
+Module Name: gs_thermal.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel_stat_sysfs.ko
+Module Name: pixel_stat_sysfs.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/mali_pixel.ko
+Module Name: mali_pixel.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gb10c289812d1
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-google-shoreline.ko
+Module Name: panel-google-shoreline.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2decb3faf39d
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/zcomp_cpu.ko
+Module Name: zcomp_cpu.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-common.ko
+Module Name: panel-common.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gf23b4570d1de
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/ln8411.ko
+Module Name: ln8411.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg15-regulator.ko
+Module Name: s2mpg15-regulator.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gvotable.ko
+Module Name: gvotable.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/sg.ko
+Module Name: sg.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/tcpci_max77759.ko
+Module Name: tcpci_max77759.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/shm_ipc.ko
+Module Name: shm_ipc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/usbc_cooling_dev.ko
+Module Name: usbc_cooling_dev.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/keydebug.ko
+Module Name: keydebug.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/google-battery.ko
+Module Name: google-battery.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/i2c-acpm.ko
+Module Name: i2c-acpm.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/arm-cmn.ko
+Module Name: arm-cmn.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/vh_thermal.ko
+Module Name: vh_thermal.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/aoc_alsa_dev_util.ko
+Module Name: aoc_alsa_dev_util.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gcd2de84d0840
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/touch_bus_negotiator.ko
+Module Name: touch_bus_negotiator.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78cc86a95aa6
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/power_stats.ko
+Module Name: power_stats.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pixel-suspend-diag.ko
+Module Name: pixel-suspend-diag.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/i2c-exynos5.ko
+Module Name: i2c-exynos5.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/pcie-exynos-zuma-rc-cal.ko
+Module Name: pcie-exynos-zuma-rc-cal.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/trusty-ipc.ko
+Module Name: trusty-ipc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g78d5d68e86e0
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_memlat.ko
+Module Name: gs_governor_memlat.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11664771 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg1415-gpio.ko
+Module Name: s2mpg1415-gpio.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/p9221.ko
+Module Name: p9221.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/aoc_usb_driver.ko
+Module Name: aoc_usb_driver.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gcd2de84d0840
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/at24.ko
+Module Name: at24.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: gbf4f9bc41c3b
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_sgpio.ko
+Module Name: max77779_pmic_sgpio.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2d13547372a2
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/panel-google-hk3.ko
+Module Name: panel-google-hk3.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: g2decb3faf39d
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-pmu-if.ko
+Module Name: exynos-pmu-if.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-coresight.ko
+Module Name: exynos-coresight.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_dsulat.ko
+Module Name: gs_governor_dsulat.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/s2mpg14-powermeter.ko
+Module Name: s2mpg14-powermeter.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
+Filename: shiba-ap2a.240605.024.a1/vendor_kernel_boot/ramdisk/lib/modules/exynos-ecc-handler.ko
+Module Name: exynos-ecc-handler.ko
+Vermagic: 5.15.137-android14-11-gbf4f9bc41c3b-ab11699124 SMP preempt mod_unload modversions aarch64
+scmversion: ge3fac8ac5484
+
