@@ -2,6 +2,8 @@ oriole-up1a.231005.007
 kernel_rev: 5.10.157-android13-4-00001-g5c7ff5dc7aac-ab10381520
 kernel_commit: g5c7ff5dc7aac
 
+=== vendor_dlkm modules ===
+
 Filename: oriole-up1a.231005.007/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
 Vermagic: 5.10.157-android13-4-gaf03195582e9-ab10639820 SMP preempt mod_unload modversions aarch64

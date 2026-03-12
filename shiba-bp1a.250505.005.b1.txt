@@ -2,6 +2,8 @@ shiba-bp1a.250505.005.b1
 kernel_rev: 6.1.99-android14-11-gd7dac4b14270-ab12946699
 kernel_commit: gd7dac4b14270
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-bp1a.250505.005.b1/vendor_dlkm/lib/modules/softdog.ko
 Module Name: softdog.ko
 Vermagic: 6.1.99-android14-11-g3c76c2d71bb3-ab13202328 SMP preempt mod_unload modversions aarch64

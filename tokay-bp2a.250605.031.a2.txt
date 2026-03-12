@@ -2,6 +2,8 @@ tokay-bp2a.250605.031.a2
 kernel_rev: 6.1.124-android14-11-g8d713f9e8e7b-ab1320296
 kernel_commit: g8d713f9e8e7b
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp2a.250605.031.a2/vendor_dlkm/lib/modules/cp_thermal_zone.ko
 Module Name: cp_thermal_zone.ko
 Vermagic: 6.1.124-android14-11-ga633402dff84-ab13397946 SMP preempt mod_unload modversions aarch64

@@ -2,6 +2,8 @@ tokay-ad1a.240905.004
 kernel_rev: 6.1.75-android14-11-ga9c2920233e0-ab1203962
 kernel_commit: ga9c2920233e0
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-ad1a.240905.004/vendor_dlkm/lib/modules/aoc_channel_dev.ko
 Module Name: aoc_channel_dev.ko
 Vermagic: 6.1.75-android14-11-ga9c2920233e0-ab12143323 SMP preempt mod_unload modversions aarch64

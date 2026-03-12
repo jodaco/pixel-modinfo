@@ -2,6 +2,8 @@ tokay-ap4a.241205.013.c1
 kernel_rev: 6.1.84-android14-11-g5c500deec3a7-ab1241827
 kernel_commit: g5c500deec3a7
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-ap4a.241205.013.c1/vendor_dlkm/lib/modules/rt9471_charger.ko
 Module Name: rt9471_charger.ko
 Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12561933 SMP preempt mod_unload modversions aarch64

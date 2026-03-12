@@ -2,6 +2,8 @@ shiba-ud1a.230803.041
 kernel_rev: 5.15.110-android14-11-ga6d7915820a0-ab10726252
 kernel_commit: ga6d7915820a0
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ud1a.230803.041/vendor_dlkm/lib/modules/nitrous.ko
 Module Name: nitrous.ko
 Vermagic: 5.15.110-android14-11-ga6d7915820a0-ab10777198 SMP preempt mod_unload modversions aarch64

@@ -2,6 +2,8 @@ shiba-ap2a.240805.005
 kernel_rev: 5.15.137-android14-11-gb572b1fac135-ab11919372
 kernel_commit: gb572b1fac135
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap2a.240805.005/vendor_dlkm/lib/modules/gxp.ko
 Module Name: gxp.ko
 Vermagic: 5.15.137-android14-11-gb572b1fac135-ab12022023 SMP preempt mod_unload modversions aarch64

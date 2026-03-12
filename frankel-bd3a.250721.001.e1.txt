@@ -1,0 +1,1952 @@
+frankel-bd3a.250721.001.e1
+kernel_rev: 6.6.82-android15-8-gd4aed7ed470e-ab13759939
+kernel_commit: gd4aed7ed470e
+
+=== vendor_dlkm modules ===
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cl_dsp-core.ko
+Module Name: cl_dsp-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_thermal_cpm_mbox.ko
+Module Name: google_thermal_cpm_mbox.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cp_thermal_zone.ko
+Module Name: cp_thermal_zone.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gef4e1d347f4c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/pvrsrvkm.ko
+Module Name: pvrsrvkm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g2c1906014509
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-ra.ko
+Module Name: google-ra.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/slg51002-regulator.ko
+Module Name: slg51002-regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-ehld-coreinstr.ko
+Module Name: google-ehld-coreinstr.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/pixel-boot-metrics.ko
+Module Name: pixel-boot-metrics.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-tmc.ko
+Module Name: coresight-tmc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/nitrous.ko
+Module Name: nitrous.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: ge04361422693
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-pcie.ko
+Module Name: google-pcie.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-funnel.ko
+Module Name: coresight-funnel.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_powercap.ko
+Module Name: google_powercap.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/mac80211.ko
+Module Name: mac80211.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/generic_source.ko
+Module Name: generic_source.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-stm.ko
+Module Name: coresight-stm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cs40l26-i2c.ko
+Module Name: cs40l26-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779-vimon-i2c.ko
+Module Name: max77779-vimon-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gnss_spi.ko
+Module Name: gnss_spi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779-fg-i2c.ko
+Module Name: max77779-fg-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_cpu_lpm_stats.ko
+Module Name: google_cpu_lpm_stats.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gslc.ko
+Module Name: gslc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/st33spi.ko
+Module Name: st33spi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g8579660070a1
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/sscoredump_sample_test.ko
+Module Name: sscoredump_sample_test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g70f2bdc7ccbc
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/p9221.ko
+Module Name: p9221.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_thermal_sensor.ko
+Module Name: google_thermal_sensor.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/ln8282_regulator.ko
+Module Name: ln8282_regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/fscache.ko
+Module Name: fscache.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/stm_core.ko
+Module Name: stm_core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/trusty-test.ko
+Module Name: trusty-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5962f8bfac4e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gpu_pf_state.ko
+Module Name: gpu_pf_state.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-icc-helper-mock-client.ko
+Module Name: google-icc-helper-mock-client.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max20339.ko
+Module Name: max20339.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/vh_thermal.ko
+Module Name: vh_thermal.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77729_uic.ko
+Module Name: max77729_uic.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/h2omg.ko
+Module Name: h2omg.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g70f2bdc7ccbc
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-pmu-ehld.ko
+Module Name: google-pmu-ehld.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_cap_sysfs.ko
+Module Name: google_cap_sysfs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/drm_g2d.ko
+Module Name: drm_g2d.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g1278d228366b
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/pinctrl-slg51002.ko
+Module Name: pinctrl-slg51002.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/fwtp_google_gdmc.ko
+Module Name: fwtp_google_gdmc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_devfreq_tj_cdev.ko
+Module Name: google_devfreq_tj_cdev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/bcmdhd4390.ko
+Module Name: bcmdhd4390.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gbb70de530d1c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/syna_touch.ko
+Module Name: syna_touch.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g54a7e2aa04ff
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/buenos.ko
+Module Name: buenos.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3cc47f3bd701
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/bcmdhd4383.ko
+Module Name: bcmdhd4383.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc8c1edd736fe
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779-fwupdate.ko
+Module Name: max77779-fwupdate.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/shm_ipc.ko
+Module Name: shm_ipc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gef4e1d347f4c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cpif_page.ko
+Module Name: cpif_page.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gef4e1d347f4c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cma_heap.ko
+Module Name: cma_heap.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/slg51002-core.ko
+Module Name: slg51002-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gs-panel-common-test.ko
+Module Name: gs-panel-common-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g084f33a8acc3
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_powerdashboard.ko
+Module Name: google_powerdashboard.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/spmi_bit_bang.ko
+Module Name: spmi_bit_bang.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/slc_dummy.ko
+Module Name: slc_dummy.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/fwtp_cpm.ko
+Module Name: fwtp_cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/focal_touch.ko
+Module Name: focal_touch.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g467c5a587355
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_thermal_sensor_stats.ko
+Module Name: google_thermal_sensor_stats.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/rt9471_charger.ko
+Module Name: rt9471_charger.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/aoc_unit_test_dev.ko
+Module Name: aoc_unit_test_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/irq-gia-google-test.ko
+Module Name: irq-gia-google-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-catu.ko
+Module Name: coresight-catu.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_dta.ko
+Module Name: google_dta.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/hl7132.ko
+Module Name: hl7132.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/ebu-google.ko
+Module Name: ebu-google.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_dock.ko
+Module Name: google_dock.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/softdog.ko
+Module Name: softdog.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779_pmic_i2c.ko
+Module Name: max77779_pmic_i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/i2c-dev.ko
+Module Name: i2c-dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/irq-extended-sysfs.ko
+Module Name: irq-extended-sysfs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/iif.ko
+Module Name: iif.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g553401b1b531
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/hardlockup-watchdog.ko
+Module Name: hardlockup-watchdog.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/st21nfc.ko
+Module Name: st21nfc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g8579660070a1
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/lwis.ko
+Module Name: lwis.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g0b772ef955ab
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/lpm_pm_domains.ko
+Module Name: lpm_pm_domains.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_thermal_uclamp.ko
+Module Name: google_thermal_uclamp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/netfs.ko
+Module Name: netfs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77729_charger.ko
+Module Name: max77729_charger.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779_i2cm_i2c.ko
+Module Name: max77779_i2cm_i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779-sp-i2c.ko
+Module Name: max77779-sp-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_ccd.ko
+Module Name: google_ccd.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_gdmc_dhub.ko
+Module Name: google_gdmc_dhub.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/mailbox-wc.ko
+Module Name: mailbox-wc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/fwtp_lib.ko
+Module Name: fwtp_lib.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/u100.ko
+Module Name: u100.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g17cff8248f79
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/snd-soc-cs40l26.ko
+Module Name: snd-soc-cs40l26.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cfg80211.ko
+Module Name: cfg80211.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-etm4x.ko
+Module Name: coresight-etm4x.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/max77779-charger-i2c.ko
+Module Name: max77779-charger-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-irm-stub.ko
+Module Name: google-irm-stub.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gnssif.ko
+Module Name: gnssif.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/slc_pt.ko
+Module Name: slc_pt.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_gem_test.ko
+Module Name: google_gem_test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight-replicator.ko
+Module Name: coresight-replicator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/sscoredump_test.ko
+Module Name: sscoredump_test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g70f2bdc7ccbc
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/s5910.ko
+Module Name: s5910.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cpif.ko
+Module Name: cpif.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gef4e1d347f4c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/perf_trace_counters.ko
+Module Name: perf_trace_counters.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/panel-gs-s6e3hc4.ko
+Module Name: panel-gs-s6e3hc4.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g084f33a8acc3
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/gxp.ko
+Module Name: gxp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g6f4c004562c0
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/goog-cpu-idle-info.ko
+Module Name: goog-cpu-idle-info.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/usb_f_dm1.ko
+Module Name: usb_f_dm1.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google-mem-qos-mock-client.ko
+Module Name: google-mem-qos-mock-client.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/spi-loopback-test.ko
+Module Name: spi-loopback-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/vpu.ko
+Module Name: vpu.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g7f1b4093165e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/google_gem.ko
+Module Name: google_gem.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/coresight.ko
+Module Name: coresight.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cs40l26-core.ko
+Module Name: cs40l26-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/cp_pmic.ko
+Module Name: cp_pmic.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gef4e1d347f4c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_dlkm/lib/modules/manual_lpcm.ko
+Module Name: manual_lpcm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+
+=== system_dlkm modules ===
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/cdc_ncm.ko
+Module Name: cdc_ncm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_fragment.ko
+Module Name: nhc_fragment.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/slhc.ko
+Module Name: slhc.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/macsec.ko
+Module Name: macsec.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_ipv6.ko
+Module Name: nhc_ipv6.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/hci_uart.ko
+Module Name: hci_uart.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_blk.ko
+Module Name: virtio_blk.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ptp_kvm.ko
+Module Name: ptp_kvm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/usbmon.ko
+Module Name: usbmon.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_pci_legacy_dev.ko
+Module Name: virtio_pci_legacy_dev.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/diag.ko
+Module Name: diag.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/btqca.ko
+Module Name: btqca.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/bsd_comp.ko
+Module Name: bsd_comp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/tls.ko
+Module Name: tls.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/pptp.ko
+Module Name: pptp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/hidp.ko
+Module Name: hidp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_pci_modern_dev.ko
+Module Name: virtio_pci_modern_dev.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_console.ko
+Module Name: virtio_console.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/can-dev.ko
+Module Name: can-dev.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/vcan.ko
+Module Name: vcan.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/btbcm.ko
+Module Name: btbcm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/9pnet.ko
+Module Name: 9pnet.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/rfcomm.ko
+Module Name: rfcomm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/l2tp_core.ko
+Module Name: l2tp_core.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ax88179_178a.ko
+Module Name: ax88179_178a.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/can-gw.ko
+Module Name: can-gw.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/kheaders.ko
+Module Name: kheaders.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/bluetooth.ko
+Module Name: bluetooth.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/pps_core.ko
+Module Name: pps_core.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/9pnet_fd.ko
+Module Name: 9pnet_fd.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ieee802154.ko
+Module Name: ieee802154.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/rfkill.ko
+Module Name: rfkill.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/gzvm.ko
+Module Name: gzvm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/cdc-acm.ko
+Module Name: cdc-acm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/vcpu_stall_detector.ko
+Module Name: vcpu_stall_detector.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/slcan.ko
+Module Name: slcan.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/open-dice.ko
+Module Name: open-dice.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_hop.ko
+Module Name: nhc_hop.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/pppox.ko
+Module Name: pppox.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/cdc_ether.ko
+Module Name: cdc_ether.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/6lowpan.ko
+Module Name: 6lowpan.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/asix.ko
+Module Name: asix.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ppp_generic.ko
+Module Name: ppp_generic.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_dest.ko
+Module Name: nhc_dest.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_mobility.ko
+Module Name: nhc_mobility.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/cctrng.ko
+Module Name: cctrng.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ieee802154_6lowpan.ko
+Module Name: ieee802154_6lowpan.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/can-bcm.ko
+Module Name: can-bcm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/tipc.ko
+Module Name: tipc.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ptp.ko
+Module Name: ptp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ftdi_sio.ko
+Module Name: ftdi_sio.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/usbserial.ko
+Module Name: usbserial.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/cdc_eem.ko
+Module Name: cdc_eem.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ieee802154_socket.ko
+Module Name: ieee802154_socket.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/libarc4.ko
+Module Name: libarc4.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/can.ko
+Module Name: can.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/mii.ko
+Module Name: mii.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/can-raw.ko
+Module Name: can-raw.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/usbnet.ko
+Module Name: usbnet.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/8021q.ko
+Module Name: 8021q.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_routing.ko
+Module Name: nhc_routing.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ppp_mppe.ko
+Module Name: ppp_mppe.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/vmw_vsock_virtio_transport.ko
+Module Name: vmw_vsock_virtio_transport.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nfc.ko
+Module Name: nfc.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/l2tp_ppp.ko
+Module Name: l2tp_ppp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/r8152.ko
+Module Name: r8152.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/aqc111.ko
+Module Name: aqc111.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/wwan.ko
+Module Name: wwan.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_balloon.ko
+Module Name: virtio_balloon.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/mac802154.ko
+Module Name: mac802154.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/nhc_udp.ko
+Module Name: nhc_udp.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/virtio_pci.ko
+Module Name: virtio_pci.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/btsdio.ko
+Module Name: btsdio.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/r8153_ecm.ko
+Module Name: r8153_ecm.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/ppp_deflate.ko
+Module Name: ppp_deflate.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/system_dlkm/lib/modules/rtl8150.ko
+Module Name: rtl8150.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+
+=== vendor_kernel_boot modules ===
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/audiometrics.ko
+Module Name: audiometrics.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_char_dev.ko
+Module Name: aoc_char_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-ctrl.ko
+Module Name: goog-mba-ctrl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_tcpci_shim.ko
+Module Name: google_tcpci_shim.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_tbn_service_dev.ko
+Module Name: aoc_tbn_service_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/snd-soc-cs35l43-i2c.ko
+Module Name: snd-soc-cs35l43-i2c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_cpufreq.ko
+Module Name: google_cpufreq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/snd-soc-cs35l43-spi.ko
+Module Name: snd-soc-cs35l43-spi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/trusty-virtio.ko
+Module Name: trusty-virtio.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5962f8bfac4e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/mipi-cdphy.ko
+Module Name: mipi-cdphy.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g6578592cf33c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-gpdma.ko
+Module Name: google-gpdma.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/da9188-gpio.ko
+Module Name: da9188-gpio.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/qbt_handler.ko
+Module Name: qbt_handler.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g1abe7366c83d
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/hardlockup-debug.ko
+Module Name: hardlockup-debug.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/io-pgtable-pixel.ko
+Module Name: io-pgtable-pixel.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: ged2522139238
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-simple.ko
+Module Name: panel-gs-simple.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g084f33a8acc3
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_timestamp_sync.ko
+Module Name: google_timestamp_sync.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_spmi.ko
+Module Name: max77779_pmic_spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/da9188-core.ko
+Module Name: da9188-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/trusty-core.ko
+Module Name: trusty-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5962f8bfac4e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic.ko
+Module Name: max77779_pmic.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-role-sw.ko
+Module Name: google-role-sw.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/logbuffer.ko
+Module Name: logbuffer.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/da9188-vgpio.ko
+Module Name: da9188-vgpio.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_cpmlog.ko
+Module Name: google_cpmlog.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/sched_tp.ko
+Module Name: sched_tp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_wdt.ko
+Module Name: google_wdt.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-fg.ko
+Module Name: max77779-fg.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/fips140.ko
+Module Name: fips140.ko
+Vermagic: 6.6.66-android15-8-gb66429556fb8-ab13070261-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb66429556fb8
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/smra.ko
+Module Name: smra.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/trusty-log.ko
+Module Name: trusty-log.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5962f8bfac4e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/keycombo.ko
+Module Name: keycombo.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_control_dev.ko
+Module Name: aoc_control_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pl330.ko
+Module Name: pl330.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs-drm-connector.ko
+Module Name: gs-drm-connector.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g084f33a8acc3
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-cpm.ko
+Module Name: google-cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_pinctrl.ko
+Module Name: max77779_pmic_pinctrl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel_metrics.ko
+Module Name: pixel_metrics.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-eusb2-repeater.ko
+Module Name: google-eusb2-repeater.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel-debug-kinfo.ko
+Module Name: pixel-debug-kinfo.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_dsufreq.ko
+Module Name: google_dsufreq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-charger-spmi.ko
+Module Name: max77779-charger-spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/mipi-dsi2h.ko
+Module Name: mipi-dsi2h.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g6578592cf33c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-aggr.ko
+Module Name: goog-mba-aggr.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-charger.ko
+Module Name: max77779-charger.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-bms.ko
+Module Name: google-bms.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-wlc.ko
+Module Name: google-wlc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77759_contaminant.ko
+Module Name: max77759_contaminant.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/sscoredump.ko
+Module Name: sscoredump.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-vimon.ko
+Module Name: max77779-vimon.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/nvmem-rmem.ko
+Module Name: nvmem-rmem.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/da9188-rtc.ko
+Module Name: da9188-rtc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/systrace.ko
+Module Name: systrace.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vh_cgroup.ko
+Module Name: vh_cgroup.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vs_drm.ko
+Module Name: vs_drm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g6578592cf33c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/debug-reboot.ko
+Module Name: debug-reboot.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel-debug-test.ko
+Module Name: pixel-debug-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/cstate_ctrl.ko
+Module Name: cstate_ctrl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-cpm-iface-test.ko
+Module Name: goog-mba-cpm-iface-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/fw_cs_dsp.ko
+Module Name: fw_cs_dsp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/usb_psy.ko
+Module Name: usb_psy.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/xhci-sideband.ko
+Module Name: xhci-sideband.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/tcpci_max777x9_spmi.ko
+Module Name: tcpci_max777x9_spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/snd-soc-wm-adsp.ko
+Module Name: snd-soc-wm-adsp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/s2dos07x02-regulator.ko
+Module Name: s2dos07x02-regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/bc_max77759.ko
+Module Name: bc_max77759.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_gtc.ko
+Module Name: google_gtc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_channel_dev.ko
+Module Name: aoc_channel_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gcdd.ko
+Module Name: gcdd.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-sp.ko
+Module Name: max77779-sp.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77729-pmic.ko
+Module Name: max77729-pmic.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vh_fs.ko
+Module Name: vh_fs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vh_sched.ko
+Module Name: vh_sched.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-sp-spmi.ko
+Module Name: max77779-sp-spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_i2cm.ko
+Module Name: max77779_i2cm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/rst-cpm.ko
+Module Name: rst-cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max1720x-battery.ko
+Module Name: max1720x-battery.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/touch_offload.ko
+Module Name: touch_offload.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gdefda03980ff
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/arm_smmu_v3_kvm.ko
+Module Name: arm_smmu_v3_kvm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: ged2522139238
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/st54spi.ko
+Module Name: st54spi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g8579660070a1
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/ufs.ko
+Module Name: ufs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vh_mm.ko
+Module Name: vh_mm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pca9468.ko
+Module Name: pca9468.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/mbfs.ko
+Module Name: mbfs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pf_state_cpm.ko
+Module Name: pf_state_cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gcma.ko
+Module Name: gcma.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-km4.ko
+Module Name: panel-gs-km4.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g15bf24d8a84e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-charger.ko
+Module Name: google-charger.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_contaminant.ko
+Module Name: max77779_contaminant.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/zcomp_eh.ko
+Module Name: zcomp_eh.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_uwb_service_dev.ko
+Module Name: aoc_uwb_service_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_sst.ko
+Module Name: google_sst.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77759_helper.ko
+Module Name: max77759_helper.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-fg-spmi.ko
+Module Name: max77779-fg-spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/spi-dw-mmio.ko
+Module Name: spi-dw-mmio.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_bcl.ko
+Module Name: google_bcl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g61f216912147
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/vh_preemptirq_long.ko
+Module Name: vh_preemptirq_long.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-tg4c.ko
+Module Name: panel-gs-tg4c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g56c24b8262b7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_devfreq.ko
+Module Name: google_devfreq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs_domain_idle.ko
+Module Name: gs_domain_idle.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_8250_dw.ko
+Module Name: google_8250_dw.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_core.ko
+Module Name: aoc_core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/zram_gs.ko
+Module Name: zram_gs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_irq.ko
+Module Name: max77779_pmic_irq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_dual_batt_gauge.ko
+Module Name: google_dual_batt_gauge.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs-debug-test.ko
+Module Name: gs-debug-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pa_kill.ko
+Module Name: pa_kill.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-cm4.ko
+Module Name: panel-gs-cm4.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g15bf24d8a84e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/spmi-smartdv.ko
+Module Name: spmi-smartdv.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/dwc_dptx.ko
+Module Name: dwc_dptx.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g6578592cf33c
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_ip_idle_notifier.ko
+Module Name: google_ip_idle_notifier.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-mem-qos.ko
+Module Name: google-mem-qos.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-tk4c.ko
+Module Name: panel-gs-tk4c.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g15bf24d8a84e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/spi-dw.ko
+Module Name: spi-dw.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_uwb_platform_drv.ko
+Module Name: aoc_uwb_platform_drv.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/irq-gia-lib.ko
+Module Name: irq-gia-lib.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/tps628600-regulator.ko
+Module Name: tps628600-regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/irq-gia-google.ko
+Module Name: irq-gia-google.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gsa_gsc.ko
+Module Name: gsa_gsc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77759-charger.ko
+Module Name: max77759-charger.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_i2cm_spmi.ko
+Module Name: max77779_i2cm_spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-chip-info.ko
+Module Name: goog-chip-info.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/sbb-mux.ko
+Module Name: sbb-mux.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/samsung-secure-iova.ko
+Module Name: samsung-secure-iova.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/bookerci.ko
+Module Name: bookerci.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog_touch_interface.ko
+Module Name: goog_touch_interface.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gdefda03980ff
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pinctrl.ko
+Module Name: pinctrl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_irm_devfreq.ko
+Module Name: google_irm_devfreq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-fleb.ko
+Module Name: panel-gs-fleb.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gddf50465d482
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-flea.ko
+Module Name: panel-gs-flea.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gddf50465d482
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/i2c-designware-core.ko
+Module Name: i2c-designware-core.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/usb_f_dm.ko
+Module Name: usb_f_dm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/irq-google-cpm.ko
+Module Name: irq-google-cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs_perf_mon.ko
+Module Name: gs_perf_mon.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gsa.ko
+Module Name: gsa.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_alsa_dev.ko
+Module Name: aoc_alsa_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-gdmc-iface-test.ko
+Module Name: goog-mba-gdmc-iface-test.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-bmea.ko
+Module Name: panel-gs-bmea.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gddf50465d482
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-cpm-iface.ko
+Module Name: goog-mba-cpm-iface.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max777x9_contaminant.ko
+Module Name: max777x9_contaminant.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/rt6160-regulator.ko
+Module Name: rt6160-regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_odpm.ko
+Module Name: google_odpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/eh.ko
+Module Name: eh.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_utils.ko
+Module Name: gs_governor_utils.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/heatmap.ko
+Module Name: heatmap.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gdefda03980ff
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/clk-cpm.ko
+Module Name: clk-cpm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel_stat_mm.ko
+Module Name: pixel_stat_mm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/metrics_collection.ko
+Module Name: metrics_collection.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g740a29a27820
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_irm.ko
+Module Name: google_irm.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/arm_smmu_v3.ko
+Module Name: arm_smmu_v3.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: ged2522139238
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_ccf_devfreq.ko
+Module Name: google_ccf_devfreq.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs-panel.ko
+Module Name: gs-panel.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g084f33a8acc3
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel_em.ko
+Module Name: pixel_em.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_vote_manager.ko
+Module Name: google_vote_manager.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779-vimon-spmi.ko
+Module Name: max77779-vimon-spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/dwc3-google.ko
+Module Name: dwc3-google.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_8250.ko
+Module Name: google_8250.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/dw-i3c-master.ko
+Module Name: dw-i3c-master.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_pm_qos.ko
+Module Name: google_pm_qos.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_modemctl.ko
+Module Name: google_modemctl.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/i2c-designware-platform.ko
+Module Name: i2c-designware-platform.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/tzprot.ko
+Module Name: tzprot.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_8250_base.ko
+Module Name: google_8250_base.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel_stat_sysfs.ko
+Module Name: pixel_stat_sysfs.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google_icc.ko
+Module Name: google_icc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/panel-gs-tk4b.ko
+Module Name: panel-gs-tk4b.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g15bf24d8a84e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/zcomp_cpu.ko
+Module Name: zcomp_cpu.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-usb-phy.ko
+Module Name: google-usb-phy.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/kernel-top.ko
+Module Name: kernel-top.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/ln8411.ko
+Module Name: ln8411.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/goog-mba-gdmc-iface.ko
+Module Name: goog-mba-gdmc-iface.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gvotable.ko
+Module Name: gvotable.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/da9188-regulator.ko
+Module Name: da9188-regulator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/sg.ko
+Module Name: sg.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/acfw-debug.ko
+Module Name: acfw-debug.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: ged2522139238
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/tcpci_max77759.ko
+Module Name: tcpci_max77759.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/usbc_cooling_dev.ko
+Module Name: usbc_cooling_dev.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/keydebug.ko
+Module Name: keydebug.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-battery.ko
+Module Name: google-battery.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/xhci-goog-dma.ko
+Module Name: xhci-goog-dma.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f30fc525d18
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/arm-cmn.ko
+Module Name: arm-cmn.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/snd-soc-cs35l43.ko
+Module Name: snd-soc-cs35l43.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gb2401ced97cf
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_alsa_dev_util.ko
+Module Name: aoc_alsa_dev_util.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/google-cpm-tracepoint.ko
+Module Name: google-cpm-tracepoint.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/touch_bus_negotiator.ko
+Module Name: touch_bus_negotiator.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gdefda03980ff
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gvdu.ko
+Module Name: gvdu.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/dvfs_helper.ko
+Module Name: dvfs_helper.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/trusty-ipc.ko
+Module Name: trusty-ipc.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5962f8bfac4e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_memlat.ko
+Module Name: gs_governor_memlat.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/mbfs_cpm_backend.ko
+Module Name: mbfs_cpm_backend.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/zsmalloc.ko
+Module Name: zsmalloc.ko
+Vermagic: 6.6.82-android15-8-gd4aed7ed470e-ab13759939-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd4aed7ed470e
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/aoc_usb_driver.ko
+Module Name: aoc_usb_driver.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5731ac2e4174
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/power_controller.ko
+Module Name: power_controller.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/at24.ko
+Module Name: at24.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/arm_dsu_pmu.ko
+Module Name: arm_dsu_pmu.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/max77779_pmic_sgpio.ko
+Module Name: max77779_pmic_sgpio.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g3f78c2c52db7
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/regmap-goog-spmi.ko
+Module Name: regmap-goog-spmi.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g665ddbbae705
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/pixel-reboot.ko
+Module Name: pixel-reboot.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: g5dee5c72568a
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/gs_governor_dsulat.ko
+Module Name: gs_governor_dsulat.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gd1468fdaa8cb
+
+Filename: frankel-bd3a.250721.001.e1/vendor_kernel_boot/ramdisk/lib/modules/drm_display_helper.ko
+Module Name: drm_display_helper.ko
+Vermagic: 6.6.82-android15-8-gc4a7b92b8014-ab14033835-4k SMP preempt mod_unload modversions aarch64
+scmversion: gc4a7b92b8014
+

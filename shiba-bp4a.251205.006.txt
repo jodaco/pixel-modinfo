@@ -2,6 +2,8 @@ shiba-bp4a.251205.006
 kernel_rev: 6.1.145-android14-11-gc1de4747ac59-ab14219743
 kernel_commit: gc1de4747ac59
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-bp4a.251205.006/vendor_dlkm/lib/modules/pinctrl-slg51002.ko
 Module Name: pinctrl-slg51002.ko
 Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64

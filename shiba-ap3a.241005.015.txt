@@ -2,6 +2,8 @@ shiba-ap3a.241005.015
 kernel_rev: 5.15.148-android14-11-g3f4e1ccba8ea-ab12020698
 kernel_commit: g3f4e1ccba8ea
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap3a.241005.015/vendor_dlkm/lib/modules/max77729_uic.ko
 Module Name: max77729_uic.ko
 Vermagic: 5.15.148-android14-11-g3f4e1ccba8ea-ab12065098 SMP preempt mod_unload modversions aarch64

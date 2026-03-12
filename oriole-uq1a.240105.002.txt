@@ -2,6 +2,8 @@ oriole-uq1a.240105.002
 kernel_rev: 5.10.177-android13-4-00003-ga7208022a7ea-ab10815828
 kernel_commit: ga7208022a7ea
 
+=== vendor_dlkm modules ===
+
 Filename: oriole-uq1a.240105.002/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
 Vermagic: 5.10.177-android13-4-gebc441967af0-ab11066595 SMP preempt mod_unload modversions aarch64

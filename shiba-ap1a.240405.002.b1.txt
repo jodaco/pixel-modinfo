@@ -2,6 +2,8 @@ shiba-ap1a.240405.002.b1
 kernel_rev: 5.15.131-android14-11-gd99d9fe08e0c-ab11209359
 kernel_commit: gd99d9fe08e0c
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap1a.240405.002.b1/vendor_dlkm/lib/modules/mali_kutf.ko
 Module Name: mali_kutf.ko
 Vermagic: 5.15.131-android14-11-gd99d9fe08e0c-ab11417428 SMP preempt mod_unload modversions aarch64

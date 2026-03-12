@@ -2,6 +2,8 @@ oriole-sp2a.220505.002
 kernel_rev: 5.10.66-android12-9-00007-g66c74c58ab38-ab826275
 kernel_commit: g66c74c58ab38
 
+=== vendor_dlkm modules ===
+
 Filename: oriole-sp2a.220505.002/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
 Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64

@@ -2,6 +2,8 @@ shiba-bp3a.251105.015
 kernel_rev: 6.1.134-android14-11-g66e758f7d0c0-ab13748739
 kernel_commit: g66e758f7d0c0
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-bp3a.251105.015/vendor_dlkm/lib/modules/max77779-fwupdate.ko
 Module Name: max77779-fwupdate.ko
 Vermagic: 6.1.134-android14-11-g2bae8aca899a-ab14015743 SMP preempt mod_unload modversions aarch64

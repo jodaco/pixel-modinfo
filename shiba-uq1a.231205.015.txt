@@ -2,6 +2,8 @@ shiba-uq1a.231205.015
 kernel_rev: 5.15.110-android14-11-gcc48824eebe8-ab10865596
 kernel_commit: gcc48824eebe8
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-uq1a.231205.015/vendor_dlkm/lib/modules/snd-soc-cs35l41-i2c.ko
 Module Name: snd-soc-cs35l41-i2c.ko
 Vermagic: 5.15.110-android14-11-gf7406ad11040-ab11078676 SMP preempt mod_unload modversions aarch64

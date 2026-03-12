@@ -2,6 +2,8 @@ tokay-ap3a.241105.008
 kernel_rev: 6.1.75-android14-11-gcfe3ac7a3f39-ab1
 kernel_commit: gcfe3ac7a3f39
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-ap3a.241105.008/vendor_dlkm/lib/modules/goog_touch_interface.ko
 Module Name: goog_touch_interface.ko
 Vermagic: 6.1.75-android14-11-gcfe3ac7a3f39-ab12386881 SMP preempt mod_unload modversions aarch64

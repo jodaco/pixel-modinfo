@@ -2,6 +2,8 @@ oriole-sq1d.220105.007
 kernel_rev: 5.10.43-android12-9-00005-g740f7fbe5f39-ab7943734
 kernel_commit: g740f7fbe5f39
 
+=== vendor_dlkm modules ===
+
 Filename: oriole-sq1d.220105.007/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
 Vermagic: 5.10.43-g9efc98e70680-ab7967544 SMP preempt mod_unload modversions aarch64

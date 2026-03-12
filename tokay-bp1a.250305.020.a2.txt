@@ -2,6 +2,8 @@ tokay-bp1a.250305.020.a2
 kernel_rev: 6.1.99-android14-11-gd6f926cfde54-ab12786694
 kernel_commit: gd6f926cfde54
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp1a.250305.020.a2/vendor_dlkm/lib/modules/exynos-seclog.ko
 Module Name: exynos-seclog.ko
 Vermagic: 6.1.99-android14-11-gc151586fe278-ab12919773 SMP preempt mod_unload modversions aarch64

@@ -2,6 +2,8 @@ tokay-ap4a.250105.002
 kernel_rev: 6.1.84-android14-11-g5c500deec3a7-ab1241827
 kernel_commit: g5c500deec3a7
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-ap4a.250105.002/vendor_dlkm/lib/modules/qm35.ko
 Module Name: qm35.ko
 Vermagic: 6.1.84-android14-11-gbacf38cee60b-ab12646621 SMP preempt mod_unload modversions aarch64

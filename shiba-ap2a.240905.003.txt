@@ -2,6 +2,8 @@ shiba-ap2a.240905.003
 kernel_rev: 5.15.137-android14-11-gbc062a78e195-ab12057991
 kernel_commit: gbc062a78e195
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap2a.240905.003/vendor_dlkm/lib/modules/st33spi.ko
 Module Name: st33spi.ko
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64

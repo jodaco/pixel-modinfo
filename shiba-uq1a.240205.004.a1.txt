@@ -2,6 +2,8 @@ shiba-uq1a.240205.004.a1
 kernel_rev: 5.15.110-android14-11-gcc48824eebe8-ab10865596
 kernel_commit: gcc48824eebe8
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-uq1a.240205.004.a1/vendor_dlkm/lib/modules/snd-soc-wm-adsp.ko
 Module Name: snd-soc-wm-adsp.ko
 Vermagic: 5.15.110-android14-11-gcc48824eebe8-ab11267810 SMP preempt mod_unload modversions aarch64

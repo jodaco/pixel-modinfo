@@ -2,6 +2,8 @@ tokay-bp2a.250805.005
 kernel_rev: 6.1.124-android14-11-g8d713f9e8e7b-ab1320296
 kernel_commit: g8d713f9e8e7b
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp2a.250805.005/vendor_dlkm/lib/modules/dbgcore-dump.ko
 Module Name: dbgcore-dump.ko
 Vermagic: 6.1.124-android14-11-g52a1402d24f6-ab13662628 SMP preempt mod_unload modversions aarch64

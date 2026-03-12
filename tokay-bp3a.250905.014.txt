@@ -2,6 +2,8 @@ tokay-bp3a.250905.014
 kernel_rev: 6.1.134-android14-11-g66e758f7d0c0-ab13748739
 kernel_commit: g66e758f7d0c0
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp3a.250905.014/vendor_dlkm/lib/modules/sscoredump_sample_test.ko
 Module Name: sscoredump_sample_test.ko
 Vermagic: 6.1.134-android14-11-g2bae8aca899a-ab13800907 SMP preempt mod_unload modversions aarch64

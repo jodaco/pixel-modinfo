@@ -2,6 +2,8 @@ shiba-bp2a.250605.031.a2
 kernel_rev: 6.1.124-android14-11-g8d713f9e8e7b-ab1320296
 kernel_commit: g8d713f9e8e7b
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-bp2a.250605.031.a2/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
 Module Name: aoc_alsa_dev.ko
 Vermagic: 6.1.124-android14-11-gc805b9407b6c-ab13397945 SMP preempt mod_unload modversions aarch64

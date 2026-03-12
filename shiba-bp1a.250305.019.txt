@@ -2,6 +2,8 @@ shiba-bp1a.250305.019
 kernel_rev: 6.1.99-android14-11-gd6f926cfde54-ab12786694
 kernel_commit: gd6f926cfde54
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-bp1a.250305.019/vendor_dlkm/lib/modules/max77729_charger.ko
 Module Name: max77729_charger.ko
 Vermagic: 6.1.99-android14-11-gc151586fe278-ab12919773 SMP preempt mod_unload modversions aarch64

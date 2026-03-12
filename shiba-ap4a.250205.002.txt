@@ -2,6 +2,8 @@ shiba-ap4a.250205.002
 kernel_rev: 5.15.153-android14-11-g0875f7359f63-ab12786697
 kernel_commit: g0875f7359f63
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap4a.250205.002/vendor_dlkm/lib/modules/bbd_pps_gpio.ko
 Module Name: bbd_pps_gpio.ko
 Vermagic: 5.15.153-android14-11-g8cda4b79ff99-ab12796583 SMP preempt mod_unload modversions aarch64

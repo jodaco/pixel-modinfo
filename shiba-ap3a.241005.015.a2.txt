@@ -2,6 +2,8 @@ shiba-ap3a.241005.015.a2
 kernel_rev: 5.15.148-android14-11-g3f4e1ccba8ea-ab12020698
 kernel_commit: g3f4e1ccba8ea
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap3a.241005.015.a2/vendor_dlkm/lib/modules/aoc_alsa_dev.ko
 Module Name: aoc_alsa_dev.ko
 Vermagic: 5.15.148-android14-11-g3f4e1ccba8ea-ab12065098 SMP preempt mod_unload modversions aarch64

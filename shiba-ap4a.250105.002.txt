@@ -2,6 +2,8 @@ shiba-ap4a.250105.002
 kernel_rev: 5.15.153-android14-11-g1ea07643b6ac-ab12324537
 kernel_commit: g1ea07643b6ac
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap4a.250105.002/vendor_dlkm/lib/modules/lwis.ko
 Module Name: lwis.ko
 Vermagic: 5.15.153-android14-11-g0ad2215f2207-ab12506254 SMP preempt mod_unload modversions aarch64

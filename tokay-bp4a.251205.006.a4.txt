@@ -2,6 +2,8 @@ tokay-bp4a.251205.006.a4
 kernel_rev: 6.1.145-android14-11-gc1de4747ac59-ab14219743
 kernel_commit: gc1de4747ac59
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp4a.251205.006.a4/vendor_dlkm/lib/modules/pwm-exynos.ko
 Module Name: pwm-exynos.ko
 Vermagic: 6.1.145-android14-11-g8dd788b6a8b4-ab14305268 SMP preempt mod_unload modversions aarch64

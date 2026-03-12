@@ -2,6 +2,8 @@ tokay-bp1a.250405.007.a1
 kernel_rev: 6.1.99-android14-11-gd7dac4b14270-ab12946699
 kernel_commit: gd7dac4b14270
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp1a.250405.007.a1/vendor_dlkm/lib/modules/google_ccd.ko
 Module Name: google_ccd.ko
 Vermagic: 6.1.99-android14-11-g6da6a63a1d3d-ab13000334 SMP preempt mod_unload modversions aarch64

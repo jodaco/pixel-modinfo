@@ -2,6 +2,8 @@ oriole-tq2a.230305.008.f1
 kernel_rev: 5.10.149-android13-4-00004-g0e5c0e91bbee-ab9475045
 kernel_commit: g0e5c0e91bbee
 
+=== vendor_dlkm modules ===
+
 Filename: oriole-tq2a.230305.008.f1/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
 Vermagic: 5.10.149-android13-4-g1f592081f319-ab9591875 SMP preempt mod_unload modversions aarch64

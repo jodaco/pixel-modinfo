@@ -2,6 +2,8 @@ tokay-bp3a.251005.004.b1
 kernel_rev: 6.1.134-android14-11-g66e758f7d0c0-ab13748739
 kernel_commit: g66e758f7d0c0
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-bp3a.251005.004.b1/vendor_dlkm/lib/modules/rt6160-regulator.ko
 Module Name: rt6160-regulator.ko
 Vermagic: 6.1.134-android14-11-g2bae8aca899a-ab13800907 SMP preempt mod_unload modversions aarch64

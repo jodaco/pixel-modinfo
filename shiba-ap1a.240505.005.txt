@@ -2,6 +2,8 @@ shiba-ap1a.240505.005
 kernel_rev: 5.15.131-android14-11-gd99d9fe08e0c-ab11209359
 kernel_commit: gd99d9fe08e0c
 
+=== vendor_dlkm modules ===
+
 Filename: shiba-ap1a.240505.005/vendor_dlkm/lib/modules/rio.ko
 Module Name: rio.ko
 Vermagic: 5.15.131-android14-11-gd99d9fe08e0c-ab11536948 SMP preempt mod_unload modversions aarch64

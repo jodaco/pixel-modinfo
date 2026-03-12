@@ -2,6 +2,8 @@ tokay-ap4a.250205.002.c1
 kernel_rev: 6.1.84-android14-11-gf4b0d69fdf34-ab12786779
 kernel_commit: gf4b0d69fdf34
 
+=== vendor_dlkm modules ===
+
 Filename: tokay-ap4a.250205.002.c1/vendor_dlkm/lib/modules/max77729_charger.ko
 Module Name: max77729_charger.ko
 Vermagic: 6.1.84-android14-11-g11bf9e326430-ab12796570 SMP preempt mod_unload modversions aarch64
