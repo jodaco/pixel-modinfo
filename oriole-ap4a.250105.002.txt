@@ -1,5 +1,5 @@
 oriole-ap4a.250105.002
-kernel_rev: 5.10.214-android13-4-00008-g62d26972ebb6-ab1232456
+kernel_rev: 5.10.214-android13-4-00008-g62d26972ebb6-ab12324566
 kernel_commit: g62d26972ebb6
 
 === vendor_dlkm modules ===
@@ -774,11 +774,6 @@ Module Name: pixel_em.ko
 Vermagic: 5.10.214-android13-4-g4d3d4bf646c9-ab12476354 SMP preempt mod_unload modversions aarch64
 scmversion: g4d3d4bf646c9
 
-Filename: oriole-ap4a.250105.002/vendor_dlkm/lib/modules/pl330.ko
-Module Name: pl330.ko
-Vermagic: 5.10.214-android13-4-g4d3d4bf646c9-ab12476354 SMP preempt mod_unload modversions aarch64
-scmversion: g4d3d4bf646c9
-
 Filename: oriole-ap4a.250105.002/vendor_dlkm/lib/modules/pixel_metrics.ko
 Module Name: pixel_metrics.ko
 Vermagic: 5.10.214-android13-4-g4d3d4bf646c9-ab12476354 SMP preempt mod_unload modversions aarch64
@@ -796,6 +791,11 @@ scmversion: g4d3d4bf646c9
 
 Filename: oriole-ap4a.250105.002/vendor_dlkm/lib/modules/pktgen.ko
 Module Name: pktgen.ko
+Vermagic: 5.10.214-android13-4-g4d3d4bf646c9-ab12476354 SMP preempt mod_unload modversions aarch64
+scmversion: g4d3d4bf646c9
+
+Filename: oriole-ap4a.250105.002/vendor_dlkm/lib/modules/pl330.ko
+Module Name: pl330.ko
 Vermagic: 5.10.214-android13-4-g4d3d4bf646c9-ab12476354 SMP preempt mod_unload modversions aarch64
 scmversion: g4d3d4bf646c9
 

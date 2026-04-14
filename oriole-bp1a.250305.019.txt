@@ -854,11 +854,6 @@ Module Name: max77779-sp-i2c.ko
 Vermagic: 6.1.99-android14-11-gc151586fe278-ab12919773 SMP preempt mod_unload modversions aarch64
 scmversion: g38791c5c2da3
 
-Filename: oriole-bp1a.250305.019/vendor_dlkm/lib/modules/mii.ko
-Module Name: mii.ko
-Vermagic: 6.1.99-android14-11-gd6f926cfde54-ab12786694 SMP preempt mod_unload modversions aarch64
-scmversion: gd6f926cfde54
-
 Filename: oriole-bp1a.250305.019/vendor_dlkm/lib/modules/max77779-sp.ko
 Module Name: max77779-sp.ko
 Vermagic: 6.1.99-android14-11-gc151586fe278-ab12919773 SMP preempt mod_unload modversions aarch64
@@ -943,6 +938,11 @@ Filename: oriole-bp1a.250305.019/vendor_dlkm/lib/modules/mcps802154_region_pctt.
 Module Name: mcps802154_region_pctt.ko
 Vermagic: 6.1.99-android14-11-gc151586fe278-ab12919773 SMP preempt mod_unload modversions aarch64
 scmversion: g8dda33c2283e
+
+Filename: oriole-bp1a.250305.019/vendor_dlkm/lib/modules/mii.ko
+Module Name: mii.ko
+Vermagic: 6.1.99-android14-11-gd6f926cfde54-ab12786694 SMP preempt mod_unload modversions aarch64
+scmversion: gd6f926cfde54
 
 Filename: oriole-bp1a.250305.019/vendor_dlkm/lib/modules/nfc.ko
 Module Name: nfc.ko

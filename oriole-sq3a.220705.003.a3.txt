@@ -1,5 +1,5 @@
 oriole-sq3a.220705.003.a3
-kernel_rev: 5.10.81-android12-9-00001-geba40aecb3b7-ab853490
+kernel_rev: 5.10.81-android12-9-00001-geba40aecb3b7-ab8534902
 kernel_commit: geba40aecb3b7
 
 === vendor_dlkm modules ===

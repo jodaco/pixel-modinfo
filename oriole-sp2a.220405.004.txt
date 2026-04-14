@@ -789,11 +789,6 @@ Module Name: samsung-dma.ko
 Vermagic: 5.10.66-g2f8013a28c7d-ab8119957 SMP preempt mod_unload modversions aarch64
 scmversion: g2f8013a28c7d
 
-Filename: oriole-sp2a.220405.004/vendor_dlkm/lib/modules/samsung_dma_heap.ko
-Module Name: samsung_dma_heap.ko
-Vermagic: 5.10.66-g2f8013a28c7d-ab8119957 SMP preempt mod_unload modversions aarch64
-scmversion: g2f8013a28c7d
-
 Filename: oriole-sp2a.220405.004/vendor_dlkm/lib/modules/samsung-iommu-group.ko
 Module Name: samsung-iommu-group.ko
 Vermagic: 5.10.66-g2f8013a28c7d-ab8119957 SMP preempt mod_unload modversions aarch64
@@ -801,6 +796,11 @@ scmversion: g2f8013a28c7d
 
 Filename: oriole-sp2a.220405.004/vendor_dlkm/lib/modules/samsung-secure-iova.ko
 Module Name: samsung-secure-iova.ko
+Vermagic: 5.10.66-g2f8013a28c7d-ab8119957 SMP preempt mod_unload modversions aarch64
+scmversion: g2f8013a28c7d
+
+Filename: oriole-sp2a.220405.004/vendor_dlkm/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
 Vermagic: 5.10.66-g2f8013a28c7d-ab8119957 SMP preempt mod_unload modversions aarch64
 scmversion: g2f8013a28c7d
 

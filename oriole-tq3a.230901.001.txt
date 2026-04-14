@@ -1,5 +1,5 @@
 oriole-tq3a.230901.001
-kernel_rev: 5.10.157-android13-4-00003-g776d0a76f6aa-ab1020811
+kernel_rev: 5.10.157-android13-4-00003-g776d0a76f6aa-ab10208116
 kernel_commit: g776d0a76f6aa
 
 === vendor_dlkm modules ===

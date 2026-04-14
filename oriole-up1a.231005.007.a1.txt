@@ -779,13 +779,13 @@ Module Name: pixel_stat_sysfs.ko
 Vermagic: 5.10.157-android13-4-gaf03195582e9-ab10639820 SMP preempt mod_unload modversions aarch64
 scmversion: gaf03195582e9
 
-Filename: oriole-up1a.231005.007.a1/vendor_dlkm/lib/modules/pl330.ko
-Module Name: pl330.ko
+Filename: oriole-up1a.231005.007.a1/vendor_dlkm/lib/modules/pktgen.ko
+Module Name: pktgen.ko
 Vermagic: 5.10.157-android13-4-gaf03195582e9-ab10639820 SMP preempt mod_unload modversions aarch64
 scmversion: gaf03195582e9
 
-Filename: oriole-up1a.231005.007.a1/vendor_dlkm/lib/modules/pktgen.ko
-Module Name: pktgen.ko
+Filename: oriole-up1a.231005.007.a1/vendor_dlkm/lib/modules/pl330.ko
+Module Name: pl330.ko
 Vermagic: 5.10.157-android13-4-gaf03195582e9-ab10639820 SMP preempt mod_unload modversions aarch64
 scmversion: gaf03195582e9
 

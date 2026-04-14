@@ -774,11 +774,6 @@ Module Name: pixel-suspend-diag.ko
 Vermagic: 5.10.198-android13-4-g928bbfd41b1e-ab11699125 SMP preempt mod_unload modversions aarch64
 scmversion: g928bbfd41b1e
 
-Filename: oriole-ap2a.240705.004/vendor_dlkm/lib/modules/pl330.ko
-Module Name: pl330.ko
-Vermagic: 5.10.198-android13-4-g928bbfd41b1e-ab11699125 SMP preempt mod_unload modversions aarch64
-scmversion: g928bbfd41b1e
-
 Filename: oriole-ap2a.240705.004/vendor_dlkm/lib/modules/pixel_em.ko
 Module Name: pixel_em.ko
 Vermagic: 5.10.198-android13-4-g928bbfd41b1e-ab11699125 SMP preempt mod_unload modversions aarch64
@@ -801,6 +796,11 @@ scmversion: g928bbfd41b1e
 
 Filename: oriole-ap2a.240705.004/vendor_dlkm/lib/modules/pktgen.ko
 Module Name: pktgen.ko
+Vermagic: 5.10.198-android13-4-g928bbfd41b1e-ab11699125 SMP preempt mod_unload modversions aarch64
+scmversion: g928bbfd41b1e
+
+Filename: oriole-ap2a.240705.004/vendor_dlkm/lib/modules/pl330.ko
+Module Name: pl330.ko
 Vermagic: 5.10.198-android13-4-g928bbfd41b1e-ab11699125 SMP preempt mod_unload modversions aarch64
 scmversion: g928bbfd41b1e
 

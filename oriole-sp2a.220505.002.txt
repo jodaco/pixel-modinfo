@@ -1,5 +1,5 @@
 oriole-sp2a.220505.002
-kernel_rev: 5.10.66-android12-9-00007-g66c74c58ab38-ab826275
+kernel_rev: 5.10.66-android12-9-00007-g66c74c58ab38-ab8262750
 kernel_commit: g66c74c58ab38
 
 === vendor_dlkm modules ===
@@ -789,11 +789,6 @@ Module Name: samsung-dma.ko
 Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64
 scmversion: g3923a575b1b2
 
-Filename: oriole-sp2a.220505.002/vendor_dlkm/lib/modules/samsung_dma_heap.ko
-Module Name: samsung_dma_heap.ko
-Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64
-scmversion: g3923a575b1b2
-
 Filename: oriole-sp2a.220505.002/vendor_dlkm/lib/modules/samsung-iommu-group.ko
 Module Name: samsung-iommu-group.ko
 Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64
@@ -801,6 +796,11 @@ scmversion: g3923a575b1b2
 
 Filename: oriole-sp2a.220505.002/vendor_dlkm/lib/modules/samsung-secure-iova.ko
 Module Name: samsung-secure-iova.ko
+Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64
+scmversion: g3923a575b1b2
+
+Filename: oriole-sp2a.220505.002/vendor_dlkm/lib/modules/samsung_dma_heap.ko
+Module Name: samsung_dma_heap.ko
 Vermagic: 5.10.66-g3923a575b1b2-ab8281428 SMP preempt mod_unload modversions aarch64
 scmversion: g3923a575b1b2
 
