@@ -6,6 +6,7 @@ kernel_commit: g466e95df8c7c
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/abrolhos.ko
 Module Name: abrolhos.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gd7df752cc255
 
@@ -431,6 +432,7 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/gpu_cooling.ko
 Module Name: gpu_cooling.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -476,6 +478,7 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/gvotable.ko
 Module Name: gvotable.ko
+version: 0.01
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -551,11 +554,13 @@ scmversion: gaad9fe5009d4
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mali_kbase.ko
 Module Name: mali_kbase.ko
+version: r36p0-01eac0 (UK version 11.34)
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g5eb4e28d03ff
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mali_pixel.ko
 Module Name: mali_pixel.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g5eb4e28d03ff
 
@@ -606,21 +611,25 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mcps802154.ko
 Module Name: mcps802154.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gf744666b6e2e
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mcps802154_region_fira.ko
 Module Name: mcps802154_region_fira.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gf744666b6e2e
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mcps802154_region_nfcc_coex.ko
 Module Name: mcps802154_region_nfcc_coex.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gf744666b6e2e
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/mcps802154_region_pctt.ko
 Module Name: mcps802154_region_pctt.ko
+version: 1.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gf744666b6e2e
 
@@ -701,6 +710,7 @@ scmversion: gb9d8b8f33e6b
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/pca9468.ko
 Module Name: pca9468.ko
+version: 3.7.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: gc58ecb40f3d8
 
@@ -766,6 +776,7 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/pktgen.ko
 Module Name: pktgen.ko
+version: 2.75
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -786,6 +797,7 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/pps-gpio.ko
 Module Name: pps-gpio.ko
+version: 1.2.0
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -886,6 +898,7 @@ scmversion: ged306c939e81
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/sg.ko
 Module Name: sg.ko
+version: 3.5.36
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -1001,11 +1014,13 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/sscoredump.ko
 Module Name: sscoredump.ko
+version: 0.2a
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/st21nfc.ko
 Module Name: st21nfc.ko
+version: 2.0.19
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g9f506bb9c8f3
 
@@ -1021,6 +1036,7 @@ scmversion: g9f506bb9c8f3
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/stmvl53l1.ko
 Module Name: stmvl53l1.ko
+version: 14.0.8
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 
@@ -1086,6 +1102,7 @@ scmversion: g334f1c6bef25
 
 Filename: oriole-tp1a.220905.004.a1/vendor_dlkm/lib/modules/ufs-exynos-core.ko
 Module Name: ufs-exynos-core.ko
+version: 0.1
 Vermagic: 5.10.107-android13-4-g334f1c6bef25-ab8873894 SMP preempt mod_unload modversions aarch64
 scmversion: g334f1c6bef25
 

@@ -71,6 +71,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/cl_dsp-core.ko
 Module Name: cl_dsp-core.ko
+version: 4.0.3
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: gbc77b4edd441
 
@@ -81,6 +82,7 @@ scmversion: gebd1334cb998
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/cs40l26-core.ko
 Module Name: cs40l26-core.ko
+version: 14.0.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: gbc77b4edd441
 
@@ -211,11 +213,13 @@ scmversion: gfb38637a1749
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/qm35.ko
 Module Name: qm35.ko
+version: 7.2.9-rc1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g63c8fd66fd45
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/rio.ko
 Module Name: rio.ko
+version: 1.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g63bfb1de1af3
 
@@ -226,6 +230,7 @@ scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/rt9471_charger.ko
 Module Name: rt9471_charger.ko
+version: 1.0.3_G
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g0578e6b493fc
 
@@ -266,11 +271,13 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/sscoredump_sample_test.ko
 Module Name: sscoredump_sample_test.ko
+version: 0.1a
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g7492a9b47a29
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/sscoredump_test.ko
 Module Name: sscoredump_test.ko
+version: 0.1a
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g7492a9b47a29
 
@@ -281,6 +288,7 @@ scmversion: gd5467cf71ce9
 
 Filename: tokay-ap3a.241005.015.a2/vendor_dlkm/lib/modules/stmvl53l1.ko
 Module Name: stmvl53l1.ko
+version: 14.0.8
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
@@ -309,6 +317,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/8021q.ko
 Module Name: 8021q.ko
+version: 1.8
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -319,6 +328,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/asix.ko
 Module Name: asix.ko
+version: 22-Dec-2011
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -329,6 +339,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/bluetooth.ko
 Module Name: bluetooth.ko
+version: 2.22
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -339,16 +350,19 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/btbcm.ko
 Module Name: btbcm.ko
+version: 0.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/btqca.ko
 Module Name: btqca.ko
+version: 0.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/btsdio.ko
 Module Name: btsdio.ko
+version: 0.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -414,11 +428,13 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/hci_uart.ko
 Module Name: hci_uart.ko
+version: 2.3
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/hidp.ko
 Module Name: hidp.ko
+version: 1.2
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -444,11 +460,13 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/l2tp_core.ko
 Module Name: l2tp_core.ko
+version: V2.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/l2tp_ppp.ko
 Module Name: l2tp_ppp.ko
+version: V2.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -469,6 +487,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/nfc.ko
 Module Name: nfc.ko
+version: 0.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -519,6 +538,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/ppp_mppe.ko
 Module Name: ppp_mppe.ko
+version: 1.0.2
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -534,6 +554,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/r8152.ko
 Module Name: r8152.ko
+version: v1.12.13
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -544,6 +565,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/rfcomm.ko
 Module Name: rfcomm.ko
+version: 1.11
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -569,6 +591,7 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/system_dlkm/lib/modules/tipc.ko
 Module Name: tipc.ko
+version: 2.0.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12039954 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -932,6 +955,7 @@ scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/gpu_cooling.ko
 Module Name: gpu_cooling.ko
+version: 1.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
@@ -992,6 +1016,7 @@ scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/gvotable.ko
 Module Name: gvotable.ko
+version: 0.01
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g0578e6b493fc
 
@@ -1052,11 +1077,13 @@ scmversion: g0578e6b493fc
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/mali_kbase.ko
 Module Name: mali_kbase.ko
+version: r47p0-01eac0 (UK version 1.24)
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g953ee82fa74b
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/mali_pixel.ko
 Module Name: mali_pixel.ko
+version: 1.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g953ee82fa74b
 
@@ -1272,6 +1299,7 @@ scmversion: g50426e56d1a5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/pca9468.ko
 Module Name: pca9468.ko
+version: 3.7.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g0578e6b493fc
 
@@ -1427,6 +1455,7 @@ scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/s5910.ko
 Module Name: s5910.ko
+version: 1.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
@@ -1467,6 +1496,7 @@ scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/sg.ko
 Module Name: sg.ko
+version: 3.5.36
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g48b922851ac5
 
@@ -1527,16 +1557,19 @@ scmversion: g48b922851ac5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/spmi_bit_bang.ko
 Module Name: spmi_bit_bang.ko
+version: 1.0
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/sscoredump.ko
 Module Name: sscoredump.ko
+version: 0.2a
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/st21nfc.ko
 Module Name: st21nfc.ko
+version: 2.0.1A
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: gd5467cf71ce9
 
@@ -1592,11 +1625,13 @@ scmversion: gb02cc103fec3
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/ufs-exynos-gs.ko
 Module Name: ufs-exynos-gs.ko
+version: 0.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 
 Filename: tokay-ap3a.241005.015.a2/vendor_kernel_boot/ramdisk/lib/modules/ufs-pixel-fips140.ko
 Module Name: ufs-pixel-fips140.ko
+version: 1.2.1
 Vermagic: 6.1.75-android14-11-g48b922851ac5-ab12157876 SMP preempt mod_unload modversions aarch64
 scmversion: g1343c08acdd5
 

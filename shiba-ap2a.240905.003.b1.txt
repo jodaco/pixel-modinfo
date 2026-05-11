@@ -66,6 +66,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/vendor_dlkm/lib/modules/cl_dsp-core.ko
 Module Name: cl_dsp-core.ko
+version: 4.0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gc4bf2edb0525
 
@@ -76,6 +77,7 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_dlkm/lib/modules/cs40l26-core.ko
 Module Name: cs40l26-core.ko
+version: 7.0.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gc4bf2edb0525
 
@@ -186,11 +188,13 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_dlkm/lib/modules/qm35.ko
 Module Name: qm35.ko
+version: 6.3.8-rc1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: g52e8973ee321
 
 Filename: shiba-ap2a.240905.003.b1/vendor_dlkm/lib/modules/rio.ko
 Module Name: rio.ko
+version: 1.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: g70a6dc6e1c10
 
@@ -236,6 +240,7 @@ scmversion: g710621816bb5
 
 Filename: shiba-ap2a.240905.003.b1/vendor_dlkm/lib/modules/stmvl53l1.ko
 Module Name: stmvl53l1.ko
+version: 14.0.8
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
@@ -259,6 +264,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/8021q.ko
 Module Name: 8021q.ko
+version: 1.8
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -269,6 +275,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/asix.ko
 Module Name: asix.ko
+version: 22-Dec-2011
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -279,6 +286,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/bluetooth.ko
 Module Name: bluetooth.ko
+version: 2.22
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -289,16 +297,19 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/btbcm.ko
 Module Name: btbcm.ko
+version: 0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/btqca.ko
 Module Name: btqca.ko
+version: 0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/btsdio.ko
 Module Name: btsdio.ko
+version: 0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -359,11 +370,13 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/hci_uart.ko
 Module Name: hci_uart.ko
+version: 2.3
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/hidp.ko
 Module Name: hidp.ko
+version: 1.2
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -389,11 +402,13 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/l2tp_core.ko
 Module Name: l2tp_core.ko
+version: V2.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/l2tp_ppp.ko
 Module Name: l2tp_ppp.ko
+version: V2.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -414,6 +429,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/nfc.ko
 Module Name: nfc.ko
+version: 0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -469,6 +485,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/ppp_mppe.ko
 Module Name: ppp_mppe.ko
+version: 1.0.2
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -484,6 +501,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/r8152.ko
 Module Name: r8152.ko
+version: v1.12.13
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -494,6 +512,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/rfcomm.ko
 Module Name: rfcomm.ko
+version: 1.11
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -519,6 +538,7 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/system_dlkm/lib/modules/tipc.ko
 Module Name: tipc.ko
+version: 2.0.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12057991 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -842,6 +862,7 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/gpu_cooling.ko
 Module Name: gpu_cooling.ko
+version: 1.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
@@ -902,6 +923,7 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/gvotable.ko
 Module Name: gvotable.ko
+version: 0.01
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: g2d13547372a2
 
@@ -957,11 +979,13 @@ scmversion: g2d13547372a2
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/mali_kbase.ko
 Module Name: mali_kbase.ko
+version: r47p0-01eac0 (UK version 1.24)
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gc293ec2258a0
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/mali_pixel.ko
 Module Name: mali_pixel.ko
+version: 1.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gc293ec2258a0
 
@@ -1117,6 +1141,7 @@ scmversion: gd3fb181a9eb9
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/pca9468.ko
 Module Name: pca9468.ko
+version: 3.7.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: g2d13547372a2
 
@@ -1267,6 +1292,7 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/s5910.ko
 Module Name: s5910.ko
+version: 1.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
@@ -1307,6 +1333,7 @@ scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/sg.ko
 Module Name: sg.ko
+version: 3.5.36
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gbc062a78e195
 
@@ -1367,16 +1394,19 @@ scmversion: gbc062a78e195
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/spmi_bit_bang.ko
 Module Name: spmi_bit_bang.ko
+version: 1.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/sscoredump.ko
 Module Name: sscoredump.ko
+version: 0.2a
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/st21nfc.ko
 Module Name: st21nfc.ko
+version: 2.0.1A
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: g710621816bb5
 
@@ -1432,11 +1462,13 @@ scmversion: g78d5d68e86e0
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/ufs-exynos-gs.ko
 Module Name: ufs-exynos-gs.ko
+version: 0.1
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
 Filename: shiba-ap2a.240905.003.b1/vendor_kernel_boot/ramdisk/lib/modules/ufs-pixel-fips140.ko
 Module Name: ufs-pixel-fips140.ko
+version: 1.2.0
 Vermagic: 5.15.137-android14-11-gbc062a78e195-ab12076200 SMP preempt mod_unload modversions aarch64
 scmversion: gb60f0c2a8346
 
